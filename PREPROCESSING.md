@@ -64,8 +64,6 @@ provenance and checksums; see the README there. They come from the lab fork
 uncommitted local changes, which are what ran). The Allen Institute package itself is not
 redistributed: its license is a 2-clause BSD with an added clause restricting redistribution
 and commercial use. The model weights are deposited at `data/models/trained_model.h5`.
-How that network was trained is not recorded: the weights file predates the current authors'
-work on this project, so its base model and training data are unknown.
 
 **ROI curation.** Between steps 02b and 03, the automatically detected CNMF ROIs are curated
 by hand, once per animal, session and area, with `CurateROIs.m` in the lab pipeline
