@@ -64,6 +64,8 @@ provenance and checksums; see the README there. They come from the lab fork
 uncommitted local changes, which are what ran). The Allen Institute package itself is not
 redistributed: its license is a 2-clause BSD with an added clause restricting redistribution
 and commercial use. The model weights are deposited at `data/models/trained_model.h5`.
+How that network was trained is not recorded: the weights file predates the current authors'
+work on this project, so its base model and training data are unknown.
 
 **ROI curation.** Between steps 02b and 03, the automatically detected CNMF ROIs are curated
 by hand, once per animal, session and area, with `CurateROIs.m` in the lab pipeline
@@ -156,22 +158,3 @@ They are derivative works of GPL-licensed code and are distributed under the ups
 licenses, not the repository's MIT license; see
 `code/preprocessing/modified_gpl/NOTICE.md`. They are included because they set the
 parameters and behaviour that shaped the deposited signals.
-
-## Open points
-
-- **DeepInterpolation model provenance.** The scripts, the model identity and the run
-  settings are pinned (confirmed by A. Blaeser, 2026-09-17), and the weights are deposited
-  at `data/models/trained_model.h5`. What is not known is how that network was trained: the
-  file predates A.B. joining the lab and was not made by the current authors, so its base
-  model and training data are unrecorded. Worth asking M. Clough before submission.
-- **ROI curation** is described below but its code is not deposited, by author decision: it
-  is an interactive tool whose output (the `_REF` ROI sets) is already in the deposited
-  session files.
-- **Step 04 variant.** `Step_04_old.m` is the only variant that writes
-  `celltype_REF_angle` and `celltype_angle_thres`, and `Step_04_edit.m` the only one that
-  writes `celltype_REF_new`. Between them they account for every `celltype_*` field in
-  `CaA2`/`CaA3`, so both are included. The other variants in the lab folder (`Step_04.m`,
-  `_ratio.m`, `_ratio_test.m`, `-swich_filters.m`) write `celltype_REF` only or nothing,
-  and are not included. Verified against the deposited files: between them the two shipped
-  variants account for every `celltype_*` field present in `CaA2`/`CaA3`.
-- **Package versions** for the citations above.

@@ -109,10 +109,11 @@ output to compare against.
 ## Data
 
 The data are published on G-Node GIN as one dataset,
-[common-chenlab/Sensorimotor_NComm2026](https://gin.g-node.org/common-chenlab/Sensorimotor_NComm2026)
-(DOI: TODO): one `.mat` file per imaging session, grouped by animal, plus whisker kinematics,
+[common-chenlab/Sensorimotor_NComm2026](https://gin.g-node.org/common-chenlab/Sensorimotor_NComm2026):
+one `.mat` file per imaging session, grouped by animal, plus whisker kinematics,
 the session list, the Figure 1b optogenetic behaviour, the silenced-neuron lists and the
-denoising network weights. Its README describes every variable.
+denoising network weights. Its README describes every variable. The dataset's DOI is minted
+when that repository is published, and is added here and to `CITATION.cff` at that point.
 
 Clone it into this repository's `data/` folder:
 
@@ -140,9 +141,11 @@ and cannot be run from the deposited data.
 
 ## Citing
 
-Please cite the article, and this code by its Zenodo DOI (TODO). `CITATION.cff` holds the
-citation metadata; GitHub shows it as *Cite this repository*. Cite the dataset by its GIN
-DOI (see *Data*), not by repository URL.
+Please cite the article, and this code. `CITATION.cff` holds the citation metadata, and
+GitHub shows it as *Cite this repository*. Once this repository is archived on Zenodo, cite
+the code by the Zenodo concept DOI, which always resolves to the newest version, and the
+dataset by its GIN DOI (see *Data*) rather than by repository URL. Both DOIs are added here
+as soon as they are minted.
 
 ## License
 

@@ -1,7 +1,5 @@
 # Citation metadata for the analysis code. GitHub shows it as "Cite this repository", and
 # Zenodo reads it when archiving a GitHub release.
-# TODO before the first release: set version and date-released, and add the article DOI to
-# preferred-citation once issued. The Zenodo DOI is added after Zenodo mints it.
 cff-version: 1.2.0
 message: "If you use this code, please cite the article below and this software release."
 type: software
@@ -38,8 +36,8 @@ keywords:
   - canonical correlation analysis
   - population coding
   - MATLAB
-version: "TODO"
-date-released: "2026-01-01"  # TODO: placeholder, set to the release date
+version: "1.0.0"
+date-released: "2026-09-23"
 preferred-citation:
   type: article
   title: "Dynamic engagement of long-range communication across sensorimotor cortex during flexible behavior"
@@ -54,4 +52,3 @@ preferred-citation:
       family-names: "Chen"
   journal: "Nature Communications"
   year: 2026
-  # doi: "TODO"
