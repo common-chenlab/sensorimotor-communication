@@ -1,0 +1,16 @@
+# outputs written by the code
+results/
+
+# the data live in separate GIN repositories, cloned into data/ (see README.md)
+data/
+
+# internal working notes, kept locally and never published
+CLAUDE.md
+OPEN_ISSUES.md
+
+# MATLAB / OS / Python clutter
+*.asv
+*.m~
+.DS_Store
+._*
+__pycache__/

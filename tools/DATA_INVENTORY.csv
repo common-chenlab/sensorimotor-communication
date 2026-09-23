@@ -1,0 +1,420 @@
+group,path,bytes
+metadata,Analysis/summary.mat,485
+metadata,Analysis/lick_analysis/choice.mat,61945
+preprocessed PCA (per session),Analysis/preprocessing/sm041-10_preprocess_pca.mat,427807177
+preprocessed PCA (per session),Analysis/preprocessing/sm041-11_preprocess_pca.mat,388712636
+preprocessed PCA (per session),Analysis/preprocessing/sm041-12_preprocess_pca.mat,284854664
+preprocessed PCA (per session),Analysis/preprocessing/sm041-13_preprocess_pca.mat,329945495
+preprocessed PCA (per session),Analysis/preprocessing/sm041-14_preprocess_pca.mat,363654548
+preprocessed PCA (per session),Analysis/preprocessing/sm041-1_preprocess_pca.mat,200752801
+preprocessed PCA (per session),Analysis/preprocessing/sm041-2_preprocess_pca.mat,168854457
+preprocessed PCA (per session),Analysis/preprocessing/sm041-3_preprocess_pca.mat,233500977
+preprocessed PCA (per session),Analysis/preprocessing/sm041-4_preprocess_pca.mat,273516719
+preprocessed PCA (per session),Analysis/preprocessing/sm041-5_preprocess_pca.mat,207295186
+preprocessed PCA (per session),Analysis/preprocessing/sm041-6_preprocess_pca.mat,355534117
+preprocessed PCA (per session),Analysis/preprocessing/sm041-7_preprocess_pca.mat,291905672
+preprocessed PCA (per session),Analysis/preprocessing/sm041-8_preprocess_pca.mat,339795508
+preprocessed PCA (per session),Analysis/preprocessing/sm045-10_preprocess_pca.mat,223317669
+preprocessed PCA (per session),Analysis/preprocessing/sm045-11_preprocess_pca.mat,308870016
+preprocessed PCA (per session),Analysis/preprocessing/sm045-12_preprocess_pca.mat,300822798
+preprocessed PCA (per session),Analysis/preprocessing/sm045-1_preprocess_pca.mat,297078984
+preprocessed PCA (per session),Analysis/preprocessing/sm045-3_preprocess_pca.mat,236764707
+preprocessed PCA (per session),Analysis/preprocessing/sm045-4_preprocess_pca.mat,652537521
+preprocessed PCA (per session),Analysis/preprocessing/sm045-7_preprocess_pca.mat,214659772
+preprocessed PCA (per session),Analysis/preprocessing/sm045-8_preprocess_pca.mat,170030679
+preprocessed PCA (per session),Analysis/preprocessing/sm045-9_preprocess_pca.mat,292814194
+preprocessed PCA (per session),Analysis/preprocessing/sm052-10_preprocess_pca.mat,250692250
+preprocessed PCA (per session),Analysis/preprocessing/sm052-11_preprocess_pca.mat,302257053
+preprocessed PCA (per session),Analysis/preprocessing/sm052-12_preprocess_pca.mat,334557916
+preprocessed PCA (per session),Analysis/preprocessing/sm052-13_preprocess_pca.mat,343823328
+preprocessed PCA (per session),Analysis/preprocessing/sm052-1_preprocess_pca.mat,392367874
+preprocessed PCA (per session),Analysis/preprocessing/sm052-2_preprocess_pca.mat,376693002
+preprocessed PCA (per session),Analysis/preprocessing/sm052-3_preprocess_pca.mat,502316732
+preprocessed PCA (per session),Analysis/preprocessing/sm052-4_preprocess_pca.mat,278207072
+preprocessed PCA (per session),Analysis/preprocessing/sm052-5_preprocess_pca.mat,285310426
+preprocessed PCA (per session),Analysis/preprocessing/sm052-6_preprocess_pca.mat,280351355
+preprocessed PCA (per session),Analysis/preprocessing/sm052-7_preprocess_pca.mat,430884785
+preprocessed PCA (per session),Analysis/preprocessing/sm052-8_preprocess_pca.mat,228434357
+preprocessed PCA (per session),Analysis/preprocessing/sm054-10_preprocess_pca.mat,165453287
+preprocessed PCA (per session),Analysis/preprocessing/sm054-11_preprocess_pca.mat,205449546
+preprocessed PCA (per session),Analysis/preprocessing/sm054-12_preprocess_pca.mat,212941361
+preprocessed PCA (per session),Analysis/preprocessing/sm054-13_preprocess_pca.mat,240023938
+preprocessed PCA (per session),Analysis/preprocessing/sm054-1_preprocess_pca.mat,226674527
+preprocessed PCA (per session),Analysis/preprocessing/sm054-2_preprocess_pca.mat,345198860
+preprocessed PCA (per session),Analysis/preprocessing/sm054-3_preprocess_pca.mat,199027383
+preprocessed PCA (per session),Analysis/preprocessing/sm054-4_preprocess_pca.mat,246613356
+preprocessed PCA (per session),Analysis/preprocessing/sm054-5_preprocess_pca.mat,239963967
+preprocessed PCA (per session),Analysis/preprocessing/sm054-6_preprocess_pca.mat,233206759
+preprocessed PCA (per session),Analysis/preprocessing/sm054-7_preprocess_pca.mat,232079265
+preprocessed PCA (per session),Analysis/preprocessing/sm054-8_preprocess_pca.mat,216236739
+preprocessed PCA (per session),Analysis/preprocessing/sm054-9_preprocess_pca.mat,221327381
+preprocessed PCA (per session),Analysis/preprocessing/sm056-11_preprocess_pca.mat,400281248
+preprocessed PCA (per session),Analysis/preprocessing/sm056-1_preprocess_pca.mat,428591688
+preprocessed PCA (per session),Analysis/preprocessing/sm056-2_preprocess_pca.mat,235789201
+preprocessed PCA (per session),Analysis/preprocessing/sm056-3_preprocess_pca.mat,418404351
+preprocessed PCA (per session),Analysis/preprocessing/sm056-4_preprocess_pca.mat,168248776
+preprocessed PCA (per session),Analysis/preprocessing/sm056-5_preprocess_pca.mat,416302591
+preprocessed PCA (per session),Analysis/preprocessing/sm056-7_preprocess_pca.mat,431246045
+preprocessed PCA (per session),Analysis/preprocessing/sm056-8_preprocess_pca.mat,221832441
+preprocessed PCA (per session),Analysis/preprocessing/sm056-9_preprocess_pca.mat,630504342
+preprocessed PCA (per session),Analysis/preprocessing/sm057-10_preprocess_pca.mat,191371263
+preprocessed PCA (per session),Analysis/preprocessing/sm057-11_preprocess_pca.mat,349774305
+preprocessed PCA (per session),Analysis/preprocessing/sm057-12_preprocess_pca.mat,242975902
+preprocessed PCA (per session),Analysis/preprocessing/sm057-1_preprocess_pca.mat,205591241
+preprocessed PCA (per session),Analysis/preprocessing/sm057-2_preprocess_pca.mat,126394585
+preprocessed PCA (per session),Analysis/preprocessing/sm057-3_preprocess_pca.mat,341273023
+preprocessed PCA (per session),Analysis/preprocessing/sm057-4_preprocess_pca.mat,185343416
+preprocessed PCA (per session),Analysis/preprocessing/sm057-5_preprocess_pca.mat,409716466
+preprocessed PCA (per session),Analysis/preprocessing/sm057-6_preprocess_pca.mat,349453814
+preprocessed PCA (per session),Analysis/preprocessing/sm057-7_preprocess_pca.mat,341402203
+preprocessed PCA (per session),Analysis/preprocessing/sm057-8_preprocess_pca.mat,233778991
+preprocessed PCA (per session),Analysis/preprocessing/sm057-9_preprocess_pca.mat,338958599
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm041-10_preprocess_pca_suppress_ctrl.mat,854755533
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm041-10_preprocess_pca_suppress_mch.mat,854743444
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm041-10_preprocess_pca_suppress_noncherry.mat,849583816
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm041-12_preprocess_pca_suppress_ctrl.mat,568997923
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm041-12_preprocess_pca_suppress_mch.mat,568999652
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm041-12_preprocess_pca_suppress_noncherry.mat,567357761
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm041-1_preprocess_pca_suppress_ctrl.mat,400906376
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm041-1_preprocess_pca_suppress_mch.mat,400906962
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm041-1_preprocess_pca_suppress_noncherry.mat,394500129
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm041-2_preprocess_pca_suppress_ctrl.mat,337244297
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm041-2_preprocess_pca_suppress_mch.mat,337250183
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm041-2_preprocess_pca_suppress_noncherry.mat,334363348
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm041-3_preprocess_pca_suppress_ctrl.mat,466298992
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm041-3_preprocess_pca_suppress_mch.mat,466269118
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm041-3_preprocess_pca_suppress_noncherry.mat,464931328
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm041-4_preprocess_pca_suppress_ctrl.mat,546104719
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm041-4_preprocess_pca_suppress_mch.mat,546098906
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm041-4_preprocess_pca_suppress_noncherry.mat,544960818
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm041-5_preprocess_pca_suppress_ctrl.mat,414404477
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm041-5_preprocess_pca_suppress_mch.mat,412967739
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm041-5_preprocess_pca_suppress_noncherry.mat,409151041
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm041-6_preprocess_pca_suppress_ctrl.mat,709992113
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm041-6_preprocess_pca_suppress_mch.mat,709843246
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm041-6_preprocess_pca_suppress_noncherry.mat,709360312
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm041-8_preprocess_pca_suppress_ctrl.mat,678521090
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm041-8_preprocess_pca_suppress_mch.mat,678377779
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm041-8_preprocess_pca_suppress_noncherry.mat,676134231
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm045-11_preprocess_pca_suppress_ctrl.mat,616695353
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm045-11_preprocess_pca_suppress_mch.mat,616696642
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm045-11_preprocess_pca_suppress_noncherry.mat,616402916
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm045-1_preprocess_pca_suppress_ctrl.mat,592999123
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm045-1_preprocess_pca_suppress_mch.mat,592986098
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm045-1_preprocess_pca_suppress_noncherry.mat,592981981
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm045-3_preprocess_pca_suppress_ctrl.mat,472684536
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm045-3_preprocess_pca_suppress_mch.mat,472677387
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm045-3_preprocess_pca_suppress_noncherry.mat,472159205
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm045-4_preprocess_pca_suppress_ctrl.mat,651968640
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm045-4_preprocess_pca_suppress_mch.mat,651829024
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm045-4_preprocess_pca_suppress_noncherry.mat,651941799
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm045-7_preprocess_pca_suppress_ctrl.mat,428570296
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm045-7_preprocess_pca_suppress_mch.mat,428466882
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm045-7_preprocess_pca_suppress_noncherry.mat,428570301
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm045-9_preprocess_pca_suppress_ctrl.mat,584522714
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm045-9_preprocess_pca_suppress_mch.mat,584457269
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm045-9_preprocess_pca_suppress_noncherry.mat,584446261
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm052-11_preprocess_pca_suppress_ctrl.mat,603585762
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm052-11_preprocess_pca_suppress_mch.mat,602832525
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm052-11_preprocess_pca_suppress_noncherry.mat,603585763
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm052-1_preprocess_pca_suppress_ctrl.mat,783520094
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm052-1_preprocess_pca_suppress_mch.mat,782791657
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm052-1_preprocess_pca_suppress_noncherry.mat,783520078
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm052-2_preprocess_pca_suppress_ctrl.mat,752235228
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm052-2_preprocess_pca_suppress_mch.mat,751211300
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm052-2_preprocess_pca_suppress_noncherry.mat,752235229
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm052-3_preprocess_pca_suppress_ctrl.mat,1002802712
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm052-3_preprocess_pca_suppress_mch.mat,1002169572
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm052-3_preprocess_pca_suppress_noncherry.mat,1002802718
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm052-5_preprocess_pca_suppress_ctrl.mat,569787836
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm052-5_preprocess_pca_suppress_mch.mat,568866927
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm052-5_preprocess_pca_suppress_noncherry.mat,569787841
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm052-7_preprocess_pca_suppress_ctrl.mat,860366085
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm052-7_preprocess_pca_suppress_mch.mat,859376543
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm052-7_preprocess_pca_suppress_noncherry.mat,860366089
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm054-11_preprocess_pca_suppress_ctrl.mat,410307324
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm054-11_preprocess_pca_suppress_mch.mat,409604056
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm054-11_preprocess_pca_suppress_noncherry.mat,410307326
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm054-1_preprocess_pca_suppress_ctrl.mat,452582128
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm054-1_preprocess_pca_suppress_mch.mat,452311485
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm054-1_preprocess_pca_suppress_noncherry.mat,452573992
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm054-2_preprocess_pca_suppress_ctrl.mat,689260534
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm054-2_preprocess_pca_suppress_mch.mat,688746521
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm054-2_preprocess_pca_suppress_noncherry.mat,689260536
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm054-3_preprocess_pca_suppress_ctrl.mat,397408208
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm054-3_preprocess_pca_suppress_mch.mat,396764793
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm054-3_preprocess_pca_suppress_noncherry.mat,397408209
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm054-5_preprocess_pca_suppress_ctrl.mat,479118288
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm054-5_preprocess_pca_suppress_mch.mat,478844429
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm054-5_preprocess_pca_suppress_noncherry.mat,479118288
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm054-7_preprocess_pca_suppress_ctrl.mat,463313146
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm054-7_preprocess_pca_suppress_mch.mat,463159941
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm054-7_preprocess_pca_suppress_noncherry.mat,463313148
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm054-9_preprocess_pca_suppress_ctrl.mat,441921453
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm054-9_preprocess_pca_suppress_mch.mat,441525034
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm054-9_preprocess_pca_suppress_noncherry.mat,441921453
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm056-11_preprocess_pca_suppress_ctrl.mat,799301278
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm056-11_preprocess_pca_suppress_mch.mat,798760728
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm056-11_preprocess_pca_suppress_noncherry.mat,799301281
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm056-1_preprocess_pca_suppress_ctrl.mat,855981553
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm056-1_preprocess_pca_suppress_mch.mat,855507468
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm056-1_preprocess_pca_suppress_noncherry.mat,855981554
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm056-3_preprocess_pca_suppress_ctrl.mat,835729176
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm056-3_preprocess_pca_suppress_mch.mat,835368195
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm056-3_preprocess_pca_suppress_noncherry.mat,835118733
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm056-5_preprocess_pca_suppress_ctrl.mat,831368313
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm056-5_preprocess_pca_suppress_mch.mat,830972140
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm056-5_preprocess_pca_suppress_noncherry.mat,831289552
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm056-7_preprocess_pca_suppress_ctrl.mat,861414317
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm056-7_preprocess_pca_suppress_mch.mat,860661753
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm056-7_preprocess_pca_suppress_noncherry.mat,861414324
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm056-9_preprocess_pca_suppress_ctrl.mat,1259452553
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm056-9_preprocess_pca_suppress_mch.mat,1258972385
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm056-9_preprocess_pca_suppress_noncherry.mat,1258763471
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm057-11_preprocess_pca_suppress_ctrl.mat,698584430
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm057-11_preprocess_pca_suppress_mch.mat,678430754
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm057-11_preprocess_pca_suppress_noncherry.mat,698584434
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm057-1_preprocess_pca_suppress_ctrl.mat,410524127
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm057-1_preprocess_pca_suppress_mch.mat,408993755
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm057-1_preprocess_pca_suppress_noncherry.mat,410524128
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm057-3_preprocess_pca_suppress_ctrl.mat,681460367
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm057-3_preprocess_pca_suppress_mch.mat,680756186
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm057-3_preprocess_pca_suppress_noncherry.mat,681460365
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm057-5_preprocess_pca_suppress_ctrl.mat,818100719
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm057-5_preprocess_pca_suppress_mch.mat,817468519
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm057-5_preprocess_pca_suppress_noncherry.mat,818100719
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm057-7_preprocess_pca_suppress_ctrl.mat,681759586
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm057-7_preprocess_pca_suppress_mch.mat,680798781
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm057-7_preprocess_pca_suppress_noncherry.mat,681759589
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm057-9_preprocess_pca_suppress_ctrl.mat,676709615
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm057-9_preprocess_pca_suppress_mch.mat,675640224
+"preprocessed PCA, in-silico silencing (Fig 6f,g)",Analysis/preprocessing/mCherry/sm057-9_preprocess_pca_suppress_noncherry.mat,676709617
+CCA projections (per session),Analysis/proj/full-resid_stim/sm041-1-CCA_proj_full-resid_stim.mat,261473270
+CCA projections (per session),Analysis/proj/full-resid_stim/sm041-10-CCA_proj_full-resid_stim.mat,524954416
+CCA projections (per session),Analysis/proj/full-resid_stim/sm041-11-CCA_proj_full-resid_stim.mat,477329331
+CCA projections (per session),Analysis/proj/full-resid_stim/sm041-12-CCA_proj_full-resid_stim.mat,365438155
+CCA projections (per session),Analysis/proj/full-resid_stim/sm041-13-CCA_proj_full-resid_stim.mat,420368352
+CCA projections (per session),Analysis/proj/full-resid_stim/sm041-14-CCA_proj_full-resid_stim.mat,458529088
+CCA projections (per session),Analysis/proj/full-resid_stim/sm041-2-CCA_proj_full-resid_stim.mat,227586421
+CCA projections (per session),Analysis/proj/full-resid_stim/sm041-3-CCA_proj_full-resid_stim.mat,329090208
+CCA projections (per session),Analysis/proj/full-resid_stim/sm041-4-CCA_proj_full-resid_stim.mat,342718900
+CCA projections (per session),Analysis/proj/full-resid_stim/sm041-5-CCA_proj_full-resid_stim.mat,268837006
+CCA projections (per session),Analysis/proj/full-resid_stim/sm041-6-CCA_proj_full-resid_stim.mat,445733344
+CCA projections (per session),Analysis/proj/full-resid_stim/sm041-7-CCA_proj_full-resid_stim.mat,368037974
+CCA projections (per session),Analysis/proj/full-resid_stim/sm041-8-CCA_proj_full-resid_stim.mat,432318696
+CCA projections (per session),Analysis/proj/full-resid_stim/sm045-1-CCA_proj_full-resid_stim.mat,377364949
+CCA projections (per session),Analysis/proj/full-resid_stim/sm045-10-CCA_proj_full-resid_stim.mat,294520505
+CCA projections (per session),Analysis/proj/full-resid_stim/sm045-11-CCA_proj_full-resid_stim.mat,385446675
+CCA projections (per session),Analysis/proj/full-resid_stim/sm045-12-CCA_proj_full-resid_stim.mat,376885000
+CCA projections (per session),Analysis/proj/full-resid_stim/sm045-3-CCA_proj_full-resid_stim.mat,308062632
+CCA projections (per session),Analysis/proj/full-resid_stim/sm045-4-CCA_proj_full-resid_stim.mat,405131862
+CCA projections (per session),Analysis/proj/full-resid_stim/sm045-7-CCA_proj_full-resid_stim.mat,278915523
+CCA projections (per session),Analysis/proj/full-resid_stim/sm045-8-CCA_proj_full-resid_stim.mat,312289769
+CCA projections (per session),Analysis/proj/full-resid_stim/sm045-9-CCA_proj_full-resid_stim.mat,372721257
+CCA projections (per session),Analysis/proj/full-resid_stim/sm052-1-CCA_proj_full-resid_stim.mat,482471257
+CCA projections (per session),Analysis/proj/full-resid_stim/sm052-10-CCA_proj_full-resid_stim.mat,313411337
+CCA projections (per session),Analysis/proj/full-resid_stim/sm052-11-CCA_proj_full-resid_stim.mat,377548674
+CCA projections (per session),Analysis/proj/full-resid_stim/sm052-12-CCA_proj_full-resid_stim.mat,413715332
+CCA projections (per session),Analysis/proj/full-resid_stim/sm052-13-CCA_proj_full-resid_stim.mat,421604683
+CCA projections (per session),Analysis/proj/full-resid_stim/sm052-2-CCA_proj_full-resid_stim.mat,459900641
+CCA projections (per session),Analysis/proj/full-resid_stim/sm052-3-CCA_proj_full-resid_stim.mat,596265675
+CCA projections (per session),Analysis/proj/full-resid_stim/sm052-4-CCA_proj_full-resid_stim.mat,349439184
+CCA projections (per session),Analysis/proj/full-resid_stim/sm052-5-CCA_proj_full-resid_stim.mat,360774012
+CCA projections (per session),Analysis/proj/full-resid_stim/sm052-6-CCA_proj_full-resid_stim.mat,359487262
+CCA projections (per session),Analysis/proj/full-resid_stim/sm052-7-CCA_proj_full-resid_stim.mat,525868040
+CCA projections (per session),Analysis/proj/full-resid_stim/sm052-8-CCA_proj_full-resid_stim.mat,293317919
+CCA projections (per session),Analysis/proj/full-resid_stim/sm054-1-CCA_proj_full-resid_stim.mat,288423251
+CCA projections (per session),Analysis/proj/full-resid_stim/sm054-10-CCA_proj_full-resid_stim.mat,222141689
+CCA projections (per session),Analysis/proj/full-resid_stim/sm054-11-CCA_proj_full-resid_stim.mat,264081794
+CCA projections (per session),Analysis/proj/full-resid_stim/sm054-12-CCA_proj_full-resid_stim.mat,275839042
+CCA projections (per session),Analysis/proj/full-resid_stim/sm054-13-CCA_proj_full-resid_stim.mat,307537947
+CCA projections (per session),Analysis/proj/full-resid_stim/sm054-2-CCA_proj_full-resid_stim.mat,420864730
+CCA projections (per session),Analysis/proj/full-resid_stim/sm054-3-CCA_proj_full-resid_stim.mat,260070159
+CCA projections (per session),Analysis/proj/full-resid_stim/sm054-4-CCA_proj_full-resid_stim.mat,313735800
+CCA projections (per session),Analysis/proj/full-resid_stim/sm054-5-CCA_proj_full-resid_stim.mat,306955875
+CCA projections (per session),Analysis/proj/full-resid_stim/sm054-6-CCA_proj_full-resid_stim.mat,297641578
+CCA projections (per session),Analysis/proj/full-resid_stim/sm054-7-CCA_proj_full-resid_stim.mat,296441646
+CCA projections (per session),Analysis/proj/full-resid_stim/sm054-8-CCA_proj_full-resid_stim.mat,276014862
+CCA projections (per session),Analysis/proj/full-resid_stim/sm054-9-CCA_proj_full-resid_stim.mat,282862138
+CCA projections (per session),Analysis/proj/full-resid_stim/sm056-1-CCA_proj_full-resid_stim.mat,543122728
+CCA projections (per session),Analysis/proj/full-resid_stim/sm056-11-CCA_proj_full-resid_stim.mat,504770809
+CCA projections (per session),Analysis/proj/full-resid_stim/sm056-2-CCA_proj_full-resid_stim.mat,307759972
+CCA projections (per session),Analysis/proj/full-resid_stim/sm056-3-CCA_proj_full-resid_stim.mat,524788269
+CCA projections (per session),Analysis/proj/full-resid_stim/sm056-4-CCA_proj_full-resid_stim.mat,219449607
+CCA projections (per session),Analysis/proj/full-resid_stim/sm056-5-CCA_proj_full-resid_stim.mat,517304779
+CCA projections (per session),Analysis/proj/full-resid_stim/sm056-7-CCA_proj_full-resid_stim.mat,538962615
+CCA projections (per session),Analysis/proj/full-resid_stim/sm056-8-CCA_proj_full-resid_stim.mat,289625606
+CCA projections (per session),Analysis/proj/full-resid_stim/sm056-9-CCA_proj_full-resid_stim.mat,758711282
+CCA projections (per session),Analysis/proj/full-resid_stim/sm057-1-CCA_proj_full-resid_stim.mat,271968869
+CCA projections (per session),Analysis/proj/full-resid_stim/sm057-10-CCA_proj_full-resid_stim.mat,244219373
+CCA projections (per session),Analysis/proj/full-resid_stim/sm057-11-CCA_proj_full-resid_stim.mat,434291394
+CCA projections (per session),Analysis/proj/full-resid_stim/sm057-12-CCA_proj_full-resid_stim.mat,311971184
+CCA projections (per session),Analysis/proj/full-resid_stim/sm057-2-CCA_proj_full-resid_stim.mat,187166130
+CCA projections (per session),Analysis/proj/full-resid_stim/sm057-3-CCA_proj_full-resid_stim.mat,424343269
+CCA projections (per session),Analysis/proj/full-resid_stim/sm057-4-CCA_proj_full-resid_stim.mat,241597291
+CCA projections (per session),Analysis/proj/full-resid_stim/sm057-5-CCA_proj_full-resid_stim.mat,506143719
+CCA projections (per session),Analysis/proj/full-resid_stim/sm057-6-CCA_proj_full-resid_stim.mat,432462094
+CCA projections (per session),Analysis/proj/full-resid_stim/sm057-7-CCA_proj_full-resid_stim.mat,424995009
+CCA projections (per session),Analysis/proj/full-resid_stim/sm057-8-CCA_proj_full-resid_stim.mat,297879671
+CCA projections (per session),Analysis/proj/full-resid_stim/sm057-9-CCA_proj_full-resid_stim.mat,419357937
+"SVM results (Fig 3, 5)",Analysis/svm/PCA_BINNED.mat,4038264
+"SVM results (Fig 3, 5)",Analysis/svm/PCA_SVM.mat,12198605
+"SVM results (Fig 3, 5)",Analysis/svm/PCA_SVM_lick.mat,50858901
+"SVM results (Fig 3, 5)",Analysis/svm/CONTROLCROSSTEST_REWARD.mat,80716039
+whisker summary (Fig 1),Analysis/whisker_analysis/matlab.mat,64269036
+IFI results (Fig 7),Scripts/CCA/IFI.mat,142414277
+reviewer analyses,Analysis/CCA_SUBSPACE_REVISION/CCA_subspace_reference_results.mat,20656
+reviewer analyses,Analysis/R1C1_svm_ablation/SVM_ablation_results.mat,7940
+reviewer analyses,Analysis/R1C3_dimensionality/dimensionality_results.mat,2932
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm041/sm041-1.mat,707762992
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm041/sm041-10.mat,1481462912
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm041/sm041-10_whisker.mat,37292665
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm041/sm041-11.mat,1328197960
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm041/sm041-11_whisker.mat,33616393
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm041/sm041-12.mat,987019568
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm041/sm041-12_whisker.mat,33117440
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm041/sm041-13.mat,1136963144
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm041/sm041-13_whisker.mat,37082088
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm041/sm041-14.mat,1240855792
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm041/sm041-14_whisker.mat,37199512
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm041/sm041-1_whisker.mat,21459849
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm041/sm041-2.mat,603762216
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm041/sm041-2_whisker.mat,25507315
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm041/sm041-3.mat,813301960
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm041/sm041-3_whisker.mat,31084017
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm041/sm041-4.mat,965539880
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm041/sm041-4_whisker.mat,26116012
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm041/sm041-5.mat,816992416
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm041/sm041-5_whisker.mat,29126232
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm041/sm041-6.mat,1218943856
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm041/sm041-6_whisker.mat,76703672
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm041/sm041-7.mat,1002209944
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm041/sm041-7_whisker.mat,29948580
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm041/sm041-8.mat,1168662440
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm041/sm041-8_whisker.mat,80942720
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm041/sm041-9.mat,804791376
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm041/sm041-9_whisker.mat,26474301
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm045/sm045-1.mat,1021851392
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm045/sm045-10.mat,765560224
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm045/sm045-10_whisker.mat,61089208
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm045/sm045-11.mat,1064871016
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm045/sm045-11_whisker.mat,57965112
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm045/sm045-12.mat,1022456144
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm045/sm045-12_whisker.mat,59748976
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm045/sm045-1_whisker.mat,67114384
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm045/sm045-2.mat,1367134080
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm045/sm045-2_whisker.mat,68900944
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm045/sm045-3.mat,816704056
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm045/sm045-3_whisker.mat,61762424
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm045/sm045-4.mat,1120035208
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm045/sm045-4_whisker.mat,61559216
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm045/sm045-5.mat,573082304
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm045/sm045-5_whisker.mat,66433664
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm045/sm045-6.mat,1434231289
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm045/sm045-6_whisker.mat,68004816
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm045/sm045-7.mat,771109024
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm045/sm045-7_whisker.mat,54169544
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm045/sm045-8.mat,587244016
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm045/sm045-8_whisker.mat,70461208
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm045/sm045-9.mat,1010362064
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm045/sm045-9_whisker.mat,65995960
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm052/sm052-1.mat,1352811440
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm052/sm052-10.mat,867197800
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm052/sm052-10_whisker.mat,44132016
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm052/sm052-11.mat,1043840472
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm052/sm052-11_whisker.mat,58853784
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm052/sm052-12.mat,1149661584
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm052/sm052-12_whisker.mat,59301536
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm052/sm052-13.mat,1175431872
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm052/sm052-13_whisker.mat,56399472
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm052/sm052-1_whisker.mat,32053590
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm052/sm052-2.mat,1287165216
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm052/sm052-2_whisker.mat,28616291
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm052/sm052-3.mat,1714447336
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm052/sm052-3_whisker.mat,62198208
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm052/sm052-4.mat,963635936
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm052/sm052-4_whisker.mat,52383336
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm052/sm052-5.mat,992390808
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm052/sm052-5_whisker.mat,38363488
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm052/sm052-6.mat,970570104
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm052/sm052-6_whisker.mat,55731544
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm052/sm052-7.mat,1474448192
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm052/sm052-7_whisker.mat,69670448
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm052/sm052-8.mat,797137136
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm052/sm052-8_whisker.mat,48406328
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm052/sm052-9.mat,1199638624
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm052/sm052-9_whisker.mat,59298144
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm054/sm054-1.mat,795435056
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm054/sm054-10.mat,584980152
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm054/sm054-10_whisker.mat,41453504
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm054/sm054-11.mat,722345168
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm054/sm054-11_whisker.mat,45023992
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm054/sm054-12.mat,749261864
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm054/sm054-12_whisker.mat,51268912
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm054/sm054-13.mat,834628112
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm054/sm054-13_whisker.mat,54168088
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm054/sm054-1_whisker.mat,46585792
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm054/sm054-2.mat,1198884952
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm054/sm054-2_whisker.mat,52384944
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm054/sm054-3.mat,702431240
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm054/sm054-3_whisker.mat,49930728
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm054/sm054-4.mat,857551584
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm054/sm054-4_whisker.mat,51492544
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm054/sm054-5.mat,834147352
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm054/sm054-5_whisker.mat,25357524
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm054/sm054-6.mat,819374816
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm054/sm054-6_whisker.mat,50599632
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm054/sm054-7.mat,816762384
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm054/sm054-7_whisker.mat,51046800
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm054/sm054-8.mat,757359520
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm054/sm054-8_whisker.mat,45247160
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm054/sm054-9.mat,776535456
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm054/sm054-9_whisker.mat,47700600
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm056/sm056-1.mat,1476446368
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm056/sm056-10.mat,3858923552
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm056/sm056-10_whisker.mat,57967024
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm056/sm056-11.mat,1355347816
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm056/sm056-11_whisker.mat,91205840
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm056/sm056-12.mat,4102066414
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm056/sm056-12_whisker.mat,51275712
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm056/sm056-1_whisker.mat,103028256
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm056/sm056-2.mat,824334496
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm056/sm056-2_whisker.mat,62207792
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm056/sm056-3.mat,1424014840
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm056/sm056-3_whisker.mat,90308392
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm056/sm056-4.mat,589970088
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm056/sm056-4_whisker.mat,38335408
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm056/sm056-5.mat,1427868064
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm056/sm056-5_whisker.mat,84289696
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm056/sm056-6.mat,626781808
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm056/sm056-6_whisker.mat,57966816
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm056/sm056-7.mat,1478588160
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm056/sm056-7_whisker.mat,92768096
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm056/sm056-8.mat,772287368
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm056/sm056-8_whisker.mat,57298152
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm056/sm056-9.mat,2154420768
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm056/sm056-9_whisker.mat,103918640
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm057/sm057-1.mat,715963528
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm057/sm057-10.mat,546209215
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm057/sm057-10_whisker.mat,37221816
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm057/sm057-11.mat,1203898672
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm057/sm057-11_whisker.mat,65999864
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm057/sm057-12.mat,680012364
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm057/sm057-12_whisker.mat,56629800
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm057/sm057-1_whisker.mat,57299416
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm057/sm057-2.mat,441472104
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm057/sm057-2_whisker.mat,58415880
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm057/sm057-3.mat,1166389368
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm057/sm057-3_whisker.mat,65553664
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm057/sm057-4.mat,634481368
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm057/sm057-4_whisker.mat,44582576
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm057/sm057-5.mat,1392794040
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm057/sm057-5_whisker.mat,78491384
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm057/sm057-6.mat,906010674
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm057/sm057-6_whisker.mat,64660280
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm057/sm057-7.mat,1165298000
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm057/sm057-7_whisker.mat,66666480
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm057/sm057-8.mat,659738884
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm057/sm057-8_whisker.mat,49936184
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm057/sm057-9.mat,1158366744
+"session files (Fig 2, lick, whisker; upstream input)",Animals/sm057/sm057-9_whisker.mat,62428520

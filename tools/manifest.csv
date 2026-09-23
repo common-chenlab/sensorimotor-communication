@@ -1,0 +1,166 @@
+source_rel_to_team_folder,repo_path
+Projects\Sensorimotor\Analysis\lick_analysis\MACRO_STIM.m,code/behavior_lick/MACRO_STIM.m
+Projects\Sensorimotor\Analysis\lick_analysis\plot_choice.m,code/behavior_lick/plot_choice.m
+Projects\Sensorimotor\Manuscript\NatComm\original_submission\Figures\Figure1-Opto\plot_choice_FIGURE.m,code/behavior_lick/plot_choice_FIGURE.m
+Projects\Sensorimotor\Analysis\lick_analysis\sample_choice.m,code/behavior_lick/sample_choice.m
+Projects\Sensorimotor\Analysis\lick_analysis\sort_lick_stim.m,code/behavior_lick/sort_lick_stim.m
+Projects\Sensorimotor\Analysis\whisker_analysis\confplot.m,code/behavior_whisker/confplot_whisker.m
+Projects\Sensorimotor\Analysis\whisker_analysis\get_hilbert_components_100.m,code/behavior_whisker/get_hilbert_components_100.m
+Projects\Sensorimotor\Analysis\whisker_analysis\sort_whisking_delay.m,code/behavior_whisker/sort_whisking_delay.m
+Projects\Sensorimotor\Analysis\whisker_analysis\sort_whisking_delay_probe.m,code/behavior_whisker/sort_whisking_delay_probe.m
+Projects\Sensorimotor\Analysis\whisker_analysis\whisker_analysis_delay.m,code/behavior_whisker/whisker_analysis_delay.m
+Projects\Sensorimotor\Analysis\whisker_analysis\whisking_preprobe_pregoal_stat.m,code/behavior_whisker/whisking_preprobe_pregoal_stat.m
+Projects\Sensorimotor\Analysis\proj\full-resid_stim\COMPARE_CCA_SUBSPACE.m,code/cca/COMPARE_CCA_SUBSPACE.m
+Projects\Sensorimotor\Analysis\proj\full-resid_stim\DISPLAY_sig_CCA.m,code/cca/DISPLAY_sig_CCA.m
+Projects\Sensorimotor\Analysis\proj\full-resid_stim\SUMMARY2.m,code/cca/SUMMARY2.m
+Projects\Sensorimotor\Analysis\proj\full-resid_stim\compile_correlation.m,code/cca/compile_correlation.m
+Projects\Sensorimotor\Analysis\proj\full-resid_stim\compile_correlation_binned.m,code/cca/compile_correlation_binned.m
+Projects\Sensorimotor\Analysis\CCA_SUBSPACE_REVISION\CCA_SUBSPACE_REFERENCE.m,code/cca_subspace_reference/CCA_SUBSPACE_REFERENCE.m
+Projects\Sensorimotor\Analysis\CCA_SUBSPACE_REVISION\DISPLAY_subspace_reference.m,code/cca_subspace_reference/DISPLAY_subspace_reference.m
+Projects\Sensorimotor\Analysis\R1C3_dimensionality\DIMENSIONALITY_ANALYSIS.m,code/dimensionality/DIMENSIONALITY_ANALYSIS.m
+Projects\Sensorimotor\Analysis\R1C3_dimensionality\FigS_dimensionality_legend.txt,code/dimensionality/FigS_dimensionality_legend.txt
+Projects\Sensorimotor\Scripts\CCA\BATCH_IFI.m,code/ifi/BATCH_IFI.m
+Projects\Sensorimotor\Manuscript\NatComm\original_submission\Figures\Figure7-IFI\DISPLAY_IFI.m,code/ifi/DISPLAY_IFI.m
+Projects\Sensorimotor\Manuscript\NatComm\original_submission\Figures\Figure7-IFI\EXAMPLE_IFI.m,code/ifi/EXAMPLE_IFI.m
+Projects\Sensorimotor\Analysis\CHECKLIST11_Fig7e_stats\FIG7E_STATS.m,code/ifi/FIG7E_STATS.m
+Projects\Sensorimotor\Scripts\CCA\IFI_figure.m,code/ifi/IFI_figure.m
+Projects\Sensorimotor\Scripts\CCA\IFI_schematic_bottomup.m,code/ifi/IFI_schematic_bottomup.m
+Projects\Sensorimotor\Scripts\CCA\IFI_schematic_topdown.m,code/ifi/IFI_schematic_topdown.m
+Projects\Sensorimotor\Scripts\CCA\calculate_IFIbeta.m,code/ifi/calculate_IFIbeta.m
+Analysis Suite\PIPELINE\ChenLabFilepath.m,code/lib/chenlab/ChenLabFilepath.m
+Analysis Suite\PIPELINE\FileFinder.m,code/lib/chenlab/FileFinder.m
+Analysis Suite\Secondary Analysis\GetTrialSubsets.m,code/lib/chenlab/GetTrialSubsets.m
+Analysis Suite\Secondary Analysis\multiarea\LoadMultiFOV.m,code/lib/chenlab/LoadMultiFOV.m
+Analysis Suite\PIPELINE\Misc\MakeChunkLims.m,code/lib/chenlab/MakeChunkLims.m
+Analysis Suite\PIPELINE\Misc\MakeGaussFilt.m,code/lib/chenlab/MakeGaussFilt.m
+Analysis Suite\PIPELINE\Misc\SEM.m,code/lib/chenlab/SEM.m
+Analysis Suite\PIPELINE\Misc\TimeStamp.m,code/lib/chenlab/TimeStamp.m
+Analysis Suite\PIPELINE\Misc\cell2padmat.m,code/lib/chenlab/cell2padmat.m
+Analysis Suite\PIPELINE\Misc\drop_fields.m,code/lib/chenlab/drop_fields.m
+Analysis Suite\Secondary Analysis\multiarea\get_ROIs.m,code/lib/chenlab/get_ROIs.m
+Analysis Suite\Secondary Analysis\multiarea\get_ca_signals.m,code/lib/chenlab/get_ca_signals.m
+Analysis Suite\Secondary Analysis\multiarea\get_licks.m,code/lib/chenlab/get_licks.m
+Analysis Suite\Secondary Analysis\GLM\General\make_x_y_common\get_trial_event_frames.m,code/lib/chenlab/get_trial_event_frames.m
+Analysis Suite\Secondary Analysis\multiarea\get_whisk.m,code/lib/chenlab/get_whisk.m
+Analysis Suite\PIPELINE\Misc\nanzscore.m,code/lib/chenlab/nanzscore.m
+Analysis Suite\Secondary Analysis\parseXML.m,code/lib/chenlab/parseXML.m
+Analysis Suite\PIPELINE\SCC\setup_parpool_SCC.m,code/lib/chenlab/setup_parpool_SCC.m
+Analysis Suite\Secondary Analysis\GENERAL_SVM\balance_idx.m,code/lib/chenlab/svm/balance_idx.m
+Analysis Suite\Secondary Analysis\GENERAL_SVM\prepare_run.m,code/lib/chenlab/svm/prepare_run.m
+Analysis Suite\Secondary Analysis\GENERAL_SVM\svcpredict_test.m,code/lib/chenlab/svm/svcpredict_test.m
+Analysis Suite\Secondary Analysis\GENERAL_SVM\wsvmmodel_cross_shuffles.m,code/lib/chenlab/svm/wsvmmodel_cross_shuffles.m
+Analysis Suite\Secondary Analysis\GLM\Abed - glm\get_slow_var.m,code/lib/chenlab/whisking/get_slow_var.m
+Analysis Suite\Secondary Analysis\GLM\Abed - glm\phase_from_hilbert.m,code/lib/chenlab/whisking/phase_from_hilbert.m
+Projects\Sensorimotor\Analysis\mCherry\anova_rm.m,code/lib/third_party/anova_rm.m
+Analysis Suite\Data Visualization\bluewhitered.m,code/lib/third_party/bluewhitered.m
+Projects\Sensorimotor\Scripts\Mitch\bonf_holm.m,code/lib/third_party/bonf_holm.m
+Projects\Sensorimotor\Scripts\CCA\canonical-correlation-maps-main\util\BinTime.m,code/lib/third_party/canonical-correlation-maps/BinTime.m
+Projects\Sensorimotor\Scripts\CCA\canonical-correlation-maps-main\util\CanonCorr.m,code/lib/third_party/canonical-correlation-maps/CanonCorr.m
+Projects\Sensorimotor\Scripts\CCA\canonical-correlation-maps-main\util\CanonCorrFitAndPredict.m,code/lib/third_party/canonical-correlation-maps/CanonCorrFitAndPredict.m
+Projects\Sensorimotor\Scripts\CCA\canonical-correlation-maps-main\LICENSE,code/lib/third_party/canonical-correlation-maps/LICENSE
+Projects\Sensorimotor\Scripts\CCA\canonical-correlation-maps-main\README.md,code/lib/third_party/canonical-correlation-maps/README.md
+Projects\Sensorimotor\Scripts\CCA\canonical-correlation-maps-main\util\Squash.m,code/lib/third_party/canonical-correlation-maps/Squash.m
+Projects\Sensorimotor\Analysis\proj\confplot.m,code/lib/third_party/confplot.m
+Analysis Suite\Data Visualization\distinguishable_colors.m,code/lib/third_party/distinguishable_colors.m
+Analysis Suite\PIPELINE\2P\CaImAn-MATLAB-master\loadtiff.m,code/lib/third_party/loadtiff.m
+Analysis Suite\Data Visualization\violin.m,code/lib/third_party/violin.m
+Projects\Sensorimotor\Analysis\mCherry\ANALYZE_PROJ.m,code/mcherry/ANALYZE_PROJ.m
+Projects\Sensorimotor\Analysis\mCherry\BATCH_IFI_mCherry.m,code/mcherry/BATCH_IFI_mCherry.m
+Projects\Sensorimotor\Analysis\mCherry\project_correlation.m,code/mcherry/project_correlation.m
+Projects\Sensorimotor\Scripts\CCA\CanonicalCrossCorrelationSubtype.m,code/pipeline_cca/CanonicalCrossCorrelationSubtype.m
+Projects\Sensorimotor\Scripts\CCA\LoadCCA.m,code/pipeline_cca/LoadCCA.m
+Projects\Sensorimotor\Scripts\CCA\SummarizeCCA.m,code/pipeline_cca/SummarizeCCA.m
+Projects\Sensorimotor\Scripts\CCA\activity_PCA.m,code/pipeline_cca/activity_PCA.m
+Projects\Sensorimotor\Scripts\CCA\align_activity.m,code/pipeline_cca/align_activity.m
+Projects\Sensorimotor\Scripts\CCA\cca_coeff_2_roi.m,code/pipeline_cca/cca_coeff_2_roi.m
+Projects\Sensorimotor\Scripts\CCA\exclude_mcherry_cells.m,code/pipeline_cca/exclude_mcherry_cells.m
+Projects\Sensorimotor\Scripts\CCA\export_CCA_data.m,code/pipeline_cca/export_CCA_data.m
+Projects\Sensorimotor\Scripts\CCA\filter_activity.m,code/pipeline_cca/filter_activity.m
+Projects\Sensorimotor\Analysis\get_CCA_coef.m,code/pipeline_cca/get_CCA_coef.m
+Projects\Sensorimotor\Scripts\correlation\get_act_corr.m,code/pipeline_cca/get_act_corr.m
+Projects\Sensorimotor\Scripts\correlation\get_corr_beta.m,code/pipeline_cca/get_corr_beta.m
+Projects\Sensorimotor\Scripts\correlation\get_interfov_corr.m,code/pipeline_cca/get_interfov_corr.m
+Projects\Sensorimotor\Scripts\CCA\get_trial_labels.m,code/pipeline_cca/get_trial_labels.m
+Projects\Sensorimotor\Scripts\CCA\make_comparison_struct.m,code/pipeline_cca/make_comparison_struct.m
+Projects\Sensorimotor\Scripts\CCA\perform_CCA_sub.m,code/pipeline_cca/perform_CCA_sub.m
+Projects\Sensorimotor\Scripts\CCA\prepare_CCA_data.m,code/pipeline_cca/prepare_CCA_data.m
+Projects\Sensorimotor\Scripts\resample_activity.m,code/pipeline_cca/resample_activity.m
+Projects\Sensorimotor\Scripts\CCA\run_PCA_SM.m,code/pipeline_cca/run_PCA_SM.m
+Projects\Sensorimotor\Scripts\CCA\set_CCA_params.m,code/pipeline_cca/set_CCA_params.m
+Projects\Sensorimotor\Scripts\setup_SM_workspace.m,code/pipeline_cca/setup_SM_workspace.m
+Projects\Sensorimotor\Scripts\CCA\setup_windows.m,code/pipeline_cca/setup_windows.m
+Projects\Sensorimotor\Scripts\CCA\show_CCA_results.m,code/pipeline_cca/show_CCA_results.m
+Projects\Sensorimotor\Scripts\CCA\standardize_multitrial.m,code/pipeline_cca/standardize_multitrial.m
+Projects\Sensorimotor\Scripts\CCA\window_activity.m,code/pipeline_cca/window_activity.m
+Projects\Sensorimotor\Analysis\R1C1_svm_ablation\DISPLAY_svm_ablation.m,code/reviewer_svm_ablation/DISPLAY_svm_ablation.m
+Projects\Sensorimotor\Analysis\R1C1_svm_ablation\SVM_ABLATION.m,code/reviewer_svm_ablation/SVM_ABLATION.m
+Projects\Sensorimotor\Manuscript\NatComm\original_submission\Figures\FIGURE_RASTER.m,code/singlecell/FIGURE_RASTER.m
+Projects\Sensorimotor\Analysis\singlecell\MACRO.m,code/singlecell/MACRO.m
+Projects\Sensorimotor\Analysis\singlecell\MAIN_SC_BINNED.m,code/singlecell/MAIN_SC_BINNED.m
+Projects\Sensorimotor\Analysis\singlecell\assign_area.m,code/singlecell/assign_area.m
+Projects\Sensorimotor\Analysis\singlecell\idCCA.m,code/singlecell/idCCA.m
+Projects\Sensorimotor\Analysis\singlecell\multibar.m,code/singlecell/multibar.m
+Projects\Sensorimotor\Analysis\singlecell\run_comparison.m,code/singlecell/run_comparison.m
+Projects\Sensorimotor\Analysis\singlecell\summarize_area.m,code/singlecell/summarize_area.m
+Projects\Sensorimotor\Analysis\singlecell\summarize_area_mCherry.m,code/singlecell/summarize_area_mCherry.m
+Projects\Sensorimotor\Analysis\singlecell\summarize_area_probe_test.m,code/singlecell/summarize_area_probe_test.m
+Projects\Sensorimotor\Analysis\svm\MACRO_PCA_BINNED.m,code/svm/MACRO_PCA_BINNED.m
+Projects\Sensorimotor\Analysis\svm\MAIN_PCA_BINNED.m,code/svm/MAIN_PCA_BINNED.m
+Projects\Sensorimotor\Analysis\svm\MAIN_PCA_BINNED_CROSS.m,code/svm/MAIN_PCA_BINNED_CROSS.m
+Projects\Sensorimotor\Analysis\svm\MAIN_PCA_BINNED_CROSS_UI.m,code/svm/MAIN_PCA_BINNED_CROSS_UI.m
+Projects\Sensorimotor\Analysis\svm\MAIN_PCA_BINNED_UI.m,code/svm/MAIN_PCA_BINNED_UI.m
+Projects\Sensorimotor\Analysis\svm\plot_bar_svm_binned.m,code/svm/plot_bar_svm_binned.m
+Projects\Sensorimotor\Analysis\CHECKLIST10_Fig5_stats\FIG5_STATS.m,code/svm_cca/FIG5_STATS.m
+Projects\Sensorimotor\Analysis\SVM_CCA_alignment.m,code/svm_cca/SVM_CCA_alignment.m
+Projects\Sensorimotor\Analysis\SVM_CCA_alignment_UI.m,code/svm_cca/SVM_CCA_alignment_UI.m
+Analysis Suite\PIPELINE\2P\CHEN_2P_Pipeline_Step_01.m,code/preprocessing/CHEN_2P_Pipeline_Step_01.m
+Analysis Suite\PIPELINE\2P\CHEN_2P_Pipeline_Step_02a.m,code/preprocessing/CHEN_2P_Pipeline_Step_02a.m
+Analysis Suite\PIPELINE\2P\CHEN_2P_Pipeline_Step_02b.m,code/preprocessing/CHEN_2P_Pipeline_Step_02b.m
+Analysis Suite\PIPELINE\2P\CHEN_2P_Pipeline_Step_03_Area_SCC.m,code/preprocessing/CHEN_2P_Pipeline_Step_03_Area_SCC.m
+Analysis Suite\PIPELINE\2P\CHEN_2P_Pipeline_Step_07.m,code/preprocessing/CHEN_2P_Pipeline_Step_07.m
+Analysis Suite\PIPELINE\2P\deconvolve_traces.m,code/preprocessing/deconvolve_traces.m
+Analysis Suite\PIPELINE\2P\subtract_baseline.m,code/preprocessing/subtract_baseline.m
+Analysis Suite\PIPELINE\2P\get_2P_paths.m,code/preprocessing/get_2P_paths.m
+Analysis Suite\PIPELINE\2P\Flip\CHEN_Flip_Signed.m,code/preprocessing/flip/CHEN_Flip_Signed.m
+Analysis Suite\PIPELINE\2P\Flip\UCLA_ReadTiff.m,code/preprocessing/flip/UCLA_ReadTiff.m
+Analysis Suite\PIPELINE\2P\Flip\WriteTiff.m,code/preprocessing/flip/WriteTiff.m
+Analysis Suite\PIPELINE\2P\Flip\estimate_flip.m,code/preprocessing/flip/estimate_flip.m
+Analysis Suite\PIPELINE\2P\Flip\fixOffsetAndDewarp.m,code/preprocessing/flip/fixOffsetAndDewarp.m
+Analysis Suite\PIPELINE\2P\Flip\makeMaps2.m,code/preprocessing/flip/makeMaps2.m
+Analysis Suite\PIPELINE\2P\Flip\readTiff.m,code/preprocessing/flip/readTiff.m
+Analysis Suite\PIPELINE\2P\manual_extraction\ROI_boundary2mask.m,code/preprocessing/manual_extraction/ROI_boundary2mask.m
+Analysis Suite\PIPELINE\2P\manual_extraction\extract_f.m,code/preprocessing/manual_extraction/extract_f.m
+Analysis Suite\PIPELINE\2P\manual_extraction\mask2poly.m,code/preprocessing/manual_extraction/mask2poly.m
+Analysis Suite\PIPELINE\2P\manual_extraction\recalculate_b.m,code/preprocessing/manual_extraction/recalculate_b.m
+Analysis Suite\PIPELINE\2P\correct_unaveraged\dftregistration.m,code/preprocessing/dftregistration.m
+Analysis Suite\PIPELINE\Misc\ParforProgressbar.m,code/lib/chenlab/ParforProgressbar.m
+Analysis Suite\PIPELINE\2P\NoRMCorre-master\normcorre_chen_batch.m,code/preprocessing/modified_gpl/normcorre_chen_batch.m
+Analysis Suite\PIPELINE\2P\NoRMCorre-master\normcorre_chen.m,code/preprocessing/modified_gpl/normcorre_chen.m
+Analysis Suite\PIPELINE\2P\CaImAn-MATLAB-master\filter_border_ROIs_jc.m,code/preprocessing/modified_gpl/filter_border_ROIs_jc.m
+Analysis Suite\PIPELINE\2P\CaImAn-MATLAB-master\update_spatial_components_axg.m,code/preprocessing/modified_gpl/update_spatial_components_axg.m
+Analysis Suite\PIPELINE\2P\CaImAn-MATLAB-master\update_temporal_components_axg.m,code/preprocessing/modified_gpl/update_temporal_components_axg.m
+Analysis Suite\PIPELINE\2P\OASIS_matlab-master\oasis\deconvolveCaE.m,code/preprocessing/modified_gpl/deconvolveCaE.m
+Analysis Suite\PIPELINE\2P\CHEN_2P_Pipeline_Step_04_old.m,code/preprocessing/CHEN_2P_Pipeline_Step_04_old.m
+Analysis Suite\PIPELINE\2P\CHEN_2P_Pipeline_Step_04_edit.m,code/preprocessing/CHEN_2P_Pipeline_Step_04_edit.m
+Analysis Suite\PIPELINE\2P\cell_type_annotation\get_static_reference.m,code/preprocessing/cell_type_annotation/get_static_reference.m
+Analysis Suite\PIPELINE\2P\cell_type_annotation\label_cell_type_ratio.m,code/preprocessing/cell_type_annotation/label_cell_type_ratio.m
+Analysis Suite\PIPELINE\BEHAVIOR\whisker_tracking\Steps_236.m,code/whisker_tracking/Steps_236.m
+Analysis Suite\PIPELINE\BEHAVIOR\whisker_tracking\03_import_data\TRACE_WHISKER_NO_TRAIN.m,code/whisker_tracking/TRACE_WHISKER_NO_TRAIN.m
+Analysis Suite\PIPELINE\BEHAVIOR\whisker_tracking\02_texture panel tracking\OBJECT_TRACKING_NOTRAINING.m,code/whisker_tracking/panel_tracking/OBJECT_TRACKING_NOTRAINING.m
+Analysis Suite\PIPELINE\BEHAVIOR\whisker_tracking\02_texture panel tracking\panelTracking.m,code/whisker_tracking/panel_tracking/panelTracking.m
+Analysis Suite\PIPELINE\BEHAVIOR\whisker_tracking\02_texture panel tracking\panelTracking_parallel.m,code/whisker_tracking/panel_tracking/panelTracking_parallel.m
+Analysis Suite\PIPELINE\BEHAVIOR\whisker_tracking\06_import_measurements\IMPORT_MEASUREMENTS.m,code/whisker_tracking/import_measurements/IMPORT_MEASUREMENTS.m
+Analysis Suite\PIPELINE\BEHAVIOR\whisker_tracking\06_import_measurements\generate_whisker_mats.m,code/whisker_tracking/import_measurements/generate_whisker_mats.m
+Analysis Suite\PIPELINE\BEHAVIOR\whisker_tracking\06_import_measurements\get_object.m,code/whisker_tracking/import_measurements/get_object.m
+Analysis Suite\PIPELINE\BEHAVIOR\whisker_tracking\06_import_measurements\get_touch.m,code/whisker_tracking/import_measurements/get_touch.m
+Analysis Suite\PIPELINE\BEHAVIOR\whisker_tracking\06_import_measurements\get_touch_radius.m,code/whisker_tracking/import_measurements/get_touch_radius.m
+Analysis Suite\PIPELINE\BEHAVIOR\whisker_tracking\06_import_measurements\import_angles_curves.m,code/whisker_tracking/import_measurements/import_angles_curves.m
+Analysis Suite\PIPELINE\BEHAVIOR\whisker_tracking\06_import_measurements\import_object_vector.m,code/whisker_tracking/import_measurements/import_object_vector.m
+Analysis Suite\PIPELINE\BEHAVIOR\whisker_tracking\06_import_measurements\import_touch_vector.m,code/whisker_tracking/import_measurements/import_touch_vector.m
+Analysis Suite\PIPELINE\BEHAVIOR\whisker_tracking\06_import_measurements\median_angle_curve.m,code/whisker_tracking/import_measurements/median_angle_curve.m
+Analysis Suite\PIPELINE\BEHAVIOR\whisker_tracking\06_import_measurements\save_parfor2.m,code/whisker_tracking/import_measurements/save_parfor2.m
+Analysis Suite\PIPELINE\BEHAVIOR\whisker_tracking\common scripts\build_measurements.m,code/whisker_tracking/import_measurements/build_measurements.m
+Analysis Suite\PIPELINE\BEHAVIOR\whisker_tracking\misc\whisker_tracking\clack_add_on\LoadMeasurements.m,code/lib/third_party/janelia_whisker/LoadMeasurements.m
+Analysis Suite\PIPELINE\BEHAVIOR\whisker_tracking\misc\whisker_tracking\clack_add_on\LoadWhiskers.m,code/lib/third_party/janelia_whisker/LoadWhiskers.m
+Analysis Suite\PIPELINE\BEHAVIOR\whisker_tracking\06_import_measurements\natsort.m,code/lib/third_party/natsort.m
+Analysis Suite\PIPELINE\Misc\parfor_progressbar\progressbar.m,code/lib/chenlab/progressbar.m

@@ -1,0 +1,166 @@
+repo_path,source_rel_to_team_folder,source_md5,source_modified,repo_md5
+code/behavior_lick/MACRO_STIM.m,Projects\Sensorimotor\Analysis\lick_analysis\MACRO_STIM.m,75bef4cae9a9294206500758c1d1636c,2024-06-18 05:37,7cae3bbc865a57b65248c3c290124ab5
+code/behavior_lick/plot_choice.m,Projects\Sensorimotor\Analysis\lick_analysis\plot_choice.m,8906144fe4e29acece10b5450be863a1,2024-11-15 14:01,bb873075360e033bdfed240f3a9f07a8
+code/behavior_lick/plot_choice_FIGURE.m,Projects\Sensorimotor\Manuscript\NatComm\original_submission\Figures\Figure1-Opto\plot_choice_FIGURE.m,1e346d2597fe8b4368799be5764750a9,2024-12-15 21:49,64cd6ff095f5da6ef6dcfc90be0af7a9
+code/behavior_lick/sample_choice.m,Projects\Sensorimotor\Analysis\lick_analysis\sample_choice.m,12b5a751b7206f5bb67215fe3c8abb4f,2024-06-18 05:35,d0420ea27a2a9e7de0dab066f7558a5d
+code/behavior_lick/sort_lick_stim.m,Projects\Sensorimotor\Analysis\lick_analysis\sort_lick_stim.m,23730998eefc97dc6550edded48743f2,2024-05-20 17:43,a243329de21e198e03c89aa502e3b47d
+code/behavior_whisker/confplot_whisker.m,Projects\Sensorimotor\Analysis\whisker_analysis\confplot.m,f27d0aac449ea642a0abfec153211f96,2022-11-29 14:41,0a53a2b0534af75c097e68ca583e0217
+code/behavior_whisker/get_hilbert_components_100.m,Projects\Sensorimotor\Analysis\whisker_analysis\get_hilbert_components_100.m,4ea65ffe67c6d48f2afc549ac5b49bc3,2022-11-29 16:21,aa70686109f799788f8d4dd8a6994223
+code/behavior_whisker/sort_whisking_delay.m,Projects\Sensorimotor\Analysis\whisker_analysis\sort_whisking_delay.m,7a2f04b87486e9dd05ebd4bc90d8bd7b,2026-06-22 13:13,9f94c60edf67ff656a7efcd6595b5274
+code/behavior_whisker/sort_whisking_delay_probe.m,Projects\Sensorimotor\Analysis\whisker_analysis\sort_whisking_delay_probe.m,39f4d5fa37c9547f2ce569f5157e8f8e,2026-06-23 04:00,4569ee7dc3020a72c6689097c22f9bee
+code/behavior_whisker/whisker_analysis_delay.m,Projects\Sensorimotor\Analysis\whisker_analysis\whisker_analysis_delay.m,af05abff3c6ebdd1a2048dfcbb2d0fde,2026-07-13 20:48,2570a77748df96c849b99c4b2e5a6c8e
+code/behavior_whisker/whisking_preprobe_pregoal_stat.m,Projects\Sensorimotor\Analysis\whisker_analysis\whisking_preprobe_pregoal_stat.m,e50a18f359f4a627879ea179cd992a07,2026-07-13 20:59,2cb2062864df851b7428295277b45b80
+code/cca/COMPARE_CCA_SUBSPACE.m,Projects\Sensorimotor\Analysis\proj\full-resid_stim\COMPARE_CCA_SUBSPACE.m,2fe7db9918ebcb1e329fb3759a126386,2025-06-19 15:22,b32c02849d4f705ebdb3ecf303b7deda
+code/cca/DISPLAY_sig_CCA.m,Projects\Sensorimotor\Analysis\proj\full-resid_stim\DISPLAY_sig_CCA.m,00c39b405ea66f6e709277ac5ae55cbb,2026-03-27 16:45,b0c17b5c13ab51d0f0de3f8d67b49ab2
+code/cca/SUMMARY2.m,Projects\Sensorimotor\Analysis\proj\full-resid_stim\SUMMARY2.m,12fcd32502ee08c58b968668ac63958a,2025-04-13 22:21,cfba8d3b6f431a78aec825929f7e016d
+code/cca/compile_correlation.m,Projects\Sensorimotor\Analysis\proj\full-resid_stim\compile_correlation.m,41c30328383e63f7306943b92f364b38,2026-03-27 16:30,2eb404d3cec9fe27e04a560dcbc2fbde
+code/cca/compile_correlation_binned.m,Projects\Sensorimotor\Analysis\proj\full-resid_stim\compile_correlation_binned.m,37b3bdf3efed271619606b5a356b2446,2025-01-11 17:29,7365614783c3781c5e3a2601f691f9e0
+code/cca_subspace_reference/CCA_SUBSPACE_REFERENCE.m,Projects\Sensorimotor\Analysis\CCA_SUBSPACE_REVISION\CCA_SUBSPACE_REFERENCE.m,f8ebd3e3af28a5d7ec04325f5e035eb0,2026-07-08 14:55,0d9a352c32f4e5da0a490246318c14c6
+code/cca_subspace_reference/DISPLAY_subspace_reference.m,Projects\Sensorimotor\Analysis\CCA_SUBSPACE_REVISION\DISPLAY_subspace_reference.m,aa11e0e2917739191f926c976e0e96d6,2026-07-08 15:28,26c7c96d1d32bcea99632b6b73940ad9
+code/dimensionality/DIMENSIONALITY_ANALYSIS.m,Projects\Sensorimotor\Analysis\R1C3_dimensionality\DIMENSIONALITY_ANALYSIS.m,e4e5e0ac7e235b2352b26ba578098192,2026-07-13 14:37,2f2c69c1a4420f9a878ccdc7cfe8af60
+code/dimensionality/FigS_dimensionality_legend.txt,Projects\Sensorimotor\Analysis\R1C3_dimensionality\FigS_dimensionality_legend.txt,d13b9525cd3b992a2ed63a8f044a1e70,2026-07-13 17:39,d13b9525cd3b992a2ed63a8f044a1e70
+code/ifi/BATCH_IFI.m,Projects\Sensorimotor\Scripts\CCA\BATCH_IFI.m,37874b0ddce23bb9b270c5c5912593b1,2026-02-09 11:25,4591f15065a309c292718b9eb7244978
+code/ifi/DISPLAY_IFI.m,Projects\Sensorimotor\Manuscript\NatComm\original_submission\Figures\Figure7-IFI\DISPLAY_IFI.m,d2b5d5099d59f1f89eda995d17783efb,2026-06-23 04:59,d2e732c94ea595dedd657628fc9b3c54
+code/ifi/EXAMPLE_IFI.m,Projects\Sensorimotor\Manuscript\NatComm\original_submission\Figures\Figure7-IFI\EXAMPLE_IFI.m,15ae3c86bbbe7c2ac75470526829fbd8,2025-03-31 12:06,45af4f61c71115b749838ba98d84918e
+code/ifi/FIG7E_STATS.m,Projects\Sensorimotor\Analysis\CHECKLIST11_Fig7e_stats\FIG7E_STATS.m,b9710bb3cf8aca109786515a7fe39d85,2026-09-16 01:27,7ec48357b925401f1e1da85b34758c62
+code/ifi/IFI_figure.m,Projects\Sensorimotor\Scripts\CCA\IFI_figure.m,c0ddc6afc074408ec04703a2bcc51f32,2025-08-11 10:22,d0e74b19659c3f86cb61e3c2630dedf7
+code/ifi/IFI_schematic_bottomup.m,Projects\Sensorimotor\Scripts\CCA\IFI_schematic_bottomup.m,69d4ef64180a44bd81a89aeb7f08847f,2025-08-11 16:29,48b431b309ae40611e21bde280a10b99
+code/ifi/IFI_schematic_topdown.m,Projects\Sensorimotor\Scripts\CCA\IFI_schematic_topdown.m,64c726dcb2e864a8c58da3909dd48add,2025-08-11 16:26,ba4ffb7d8ac9dea6e7c6aea1550035e6
+code/ifi/calculate_IFIbeta.m,Projects\Sensorimotor\Scripts\CCA\calculate_IFIbeta.m,13194382a0f5ac0be4acb94ed6e02ef8,2025-08-08 12:02,d4349d5a907e34ee884e8cd3d2e97c62
+code/lib/chenlab/ChenLabFilepath.m,Analysis Suite\PIPELINE\ChenLabFilepath.m,fcf507b0d96681521bf5527912448c5b,2025-04-16 10:13,116fe187e76d77e5d63b9dbbd9970d6d
+code/lib/chenlab/FileFinder.m,Analysis Suite\PIPELINE\FileFinder.m,676e030373fe8dbf8b4ee2f8a6f3793b,2024-02-22 15:18,769ae161b3bfbb84fda7d0acb0451798
+code/lib/chenlab/GetTrialSubsets.m,Analysis Suite\Secondary Analysis\GetTrialSubsets.m,2bc6147e7a6bf84d2ffbc2febd3ed1cc,2024-01-03 12:03,2c9fb0349c43cdaa4fba8923ba6a3e0b
+code/lib/chenlab/LoadMultiFOV.m,Analysis Suite\Secondary Analysis\multiarea\LoadMultiFOV.m,e3fd238d6962b37d6bbd2c0e3df3b243,2026-02-19 08:54,6b33bb34f918dc540f0ac32def028102
+code/lib/chenlab/MakeChunkLims.m,Analysis Suite\PIPELINE\Misc\MakeChunkLims.m,0bd80fce629653ee17ed9d50d5aab475,2024-02-13 20:53,4a56ba3beacd8c4c70e0c75c28f27474
+code/lib/chenlab/MakeGaussFilt.m,Analysis Suite\PIPELINE\Misc\MakeGaussFilt.m,a8a7a68974092cc1f22368407376c3aa,2023-09-20 16:13,7ecd6de28c8834a129fad93e6f05c24b
+code/lib/chenlab/ParforProgressbar.m,Analysis Suite\PIPELINE\Misc\ParforProgressbar.m,3dc67882a26ce93c2113712e18fff014,2026-03-17 09:37,a6cab11ac5f0e0bbcd03012d3809bdbc
+code/lib/chenlab/SEM.m,Analysis Suite\PIPELINE\Misc\SEM.m,19b6a8dbd819fbae7c7522fb98bb6ee1,2023-04-07 09:44,19b6a8dbd819fbae7c7522fb98bb6ee1
+code/lib/chenlab/TimeStamp.m,Analysis Suite\PIPELINE\Misc\TimeStamp.m,427e6094cb7e7be35c6b5c5278391071,2024-01-30 14:07,e8677fe4a6d10f6f3e056643e46e9e6c
+code/lib/chenlab/cell2padmat.m,Analysis Suite\PIPELINE\Misc\cell2padmat.m,fd6b6b05e4a62cf03a1c7d9d002e5121,2023-12-08 08:58,b8ba9ac370f5b29ba696a370b260532f
+code/lib/chenlab/drop_fields.m,Analysis Suite\PIPELINE\Misc\drop_fields.m,2f4dc988c85fbf9e6d414eeea5a8eb23,2023-09-12 14:15,bd927434faab6a33eebda91ea504db3f
+code/lib/chenlab/get_ROIs.m,Analysis Suite\Secondary Analysis\multiarea\get_ROIs.m,2b3c8b1f1573da5e23c08fb4c72afc10,2024-02-22 12:04,fc19ed81a88e0e4eea5da87c8f70c4c9
+code/lib/chenlab/get_ca_signals.m,Analysis Suite\Secondary Analysis\multiarea\get_ca_signals.m,3b9183cf0dd452a6461234afa9a502bb,2024-05-06 09:35,a5fbedca9c2012dfcd41173dde5d438f
+code/lib/chenlab/get_licks.m,Analysis Suite\Secondary Analysis\multiarea\get_licks.m,046a9b723e3b97ed111938863e0eb948,2023-07-13 09:41,7e6facd1c7cb6d1ab0fc86af54b7e80e
+code/lib/chenlab/get_trial_event_frames.m,Analysis Suite\Secondary Analysis\GLM\General\make_x_y_common\get_trial_event_frames.m,81db8f7701d14cde5ad50563f4bd9266,2023-06-12 15:39,20f7edcdab2b5ea0648aadf94ded5ccc
+code/lib/chenlab/get_whisk.m,Analysis Suite\Secondary Analysis\multiarea\get_whisk.m,5f4e2a1ac83f467c2fd5939c2f5bb71e,2023-07-13 09:59,92adf793cd0bd8cda0636917ebd5ae8f
+code/lib/chenlab/nanzscore.m,Analysis Suite\PIPELINE\Misc\nanzscore.m,274aaf8e548c0da4ddc81594c9402dfb,2023-04-07 09:44,5a046516ba5810ca7b12893d8d86563c
+code/lib/chenlab/parseXML.m,Analysis Suite\Secondary Analysis\parseXML.m,e1229a084c53247532dd35456e69ea3e,2023-08-24 09:27,2724c1f93ec07c68fe29c10e2ae7562f
+code/lib/chenlab/progressbar.m,Analysis Suite\PIPELINE\Misc\parfor_progressbar\progressbar.m,57c81f277bf66bb3875922a2e7b9f221,2023-06-01 08:06,06705e480618e134da62478338e8251c
+code/lib/chenlab/setup_parpool_SCC.m,Analysis Suite\PIPELINE\SCC\setup_parpool_SCC.m,effe0e53dab42223662cabe49490b5a9,2024-02-05 10:23,f3607fe1c1be97a523cf1322ee6d9b77
+code/lib/chenlab/svm/balance_idx.m,Analysis Suite\Secondary Analysis\GENERAL_SVM\balance_idx.m,05ce1ee6c8816a189f2f308dc932c365,2024-01-04 21:10,15300d3449d71beee7b8cd507771e056
+code/lib/chenlab/svm/prepare_run.m,Analysis Suite\Secondary Analysis\GENERAL_SVM\prepare_run.m,0d7d461a5ddb75d9a6e12a2055c8d231,2026-03-12 09:38,4d4c3f29a9ce80970240d5b4bc828349
+code/lib/chenlab/svm/svcpredict_test.m,Analysis Suite\Secondary Analysis\GENERAL_SVM\svcpredict_test.m,8eb27189fecb9f700d0b2d47992ed930,2023-08-11 17:56,1debf02363a5fb5e154ef7ff5b040395
+code/lib/chenlab/svm/wsvmmodel_cross_shuffles.m,Analysis Suite\Secondary Analysis\GENERAL_SVM\wsvmmodel_cross_shuffles.m,d188a55003fbd8abd426115c2479b3c2,2024-06-17 10:44,272cfadae3b8faefbcf45f6c277f4b93
+code/lib/chenlab/whisking/get_slow_var.m,Analysis Suite\Secondary Analysis\GLM\Abed - glm\get_slow_var.m,f275c954b30b76cbfd149c609befb7e4,2019-06-18 15:38,f07de9027235b733f748d5bbbf23b5b5
+code/lib/chenlab/whisking/phase_from_hilbert.m,Analysis Suite\Secondary Analysis\GLM\Abed - glm\phase_from_hilbert.m,8f92f7ca8ddd9be4cf629146bf19f040,2019-06-18 15:38,daf66380947a8d3c780cd5fee82e739c
+code/lib/third_party/anova_rm.m,Projects\Sensorimotor\Analysis\mCherry\anova_rm.m,3ada183943fb2f2864ec8b50964e2b44,2025-01-02 00:12,cce5711353c68dc39f890554b8752e1c
+code/lib/third_party/bluewhitered.m,Analysis Suite\Data Visualization\bluewhitered.m,4d89c65ebcd7bdb1f16dd4060892a077,2014-02-12 12:06,fc7b90edcaedc13ec1c1991775438b7d
+code/lib/third_party/bonf_holm.m,Projects\Sensorimotor\Scripts\Mitch\bonf_holm.m,38b382a817d61e0f299647c1111acc1b,2024-03-28 15:07,38b382a817d61e0f299647c1111acc1b
+code/lib/third_party/canonical-correlation-maps/BinTime.m,Projects\Sensorimotor\Scripts\CCA\canonical-correlation-maps-main\util\BinTime.m,f718de14356e65428740d4e3334b7dee,2023-08-25 10:04,f718de14356e65428740d4e3334b7dee
+code/lib/third_party/canonical-correlation-maps/CanonCorr.m,Projects\Sensorimotor\Scripts\CCA\canonical-correlation-maps-main\util\CanonCorr.m,7fd6e23c2ba5d2ffa791d284fdecb254,2023-08-25 10:04,7fd6e23c2ba5d2ffa791d284fdecb254
+code/lib/third_party/canonical-correlation-maps/CanonCorrFitAndPredict.m,Projects\Sensorimotor\Scripts\CCA\canonical-correlation-maps-main\util\CanonCorrFitAndPredict.m,84b30c55d15baf0068e25efa532c8843,2023-09-29 14:51,84b30c55d15baf0068e25efa532c8843
+code/lib/third_party/canonical-correlation-maps/LICENSE,Projects\Sensorimotor\Scripts\CCA\canonical-correlation-maps-main\LICENSE,e4e6f3faec256e145b793a5d947db11d,2023-08-25 10:04,e4e6f3faec256e145b793a5d947db11d
+code/lib/third_party/canonical-correlation-maps/README.md,Projects\Sensorimotor\Scripts\CCA\canonical-correlation-maps-main\README.md,4155162e1bae4b88011a8d2037d5102a,2023-08-25 10:04,4155162e1bae4b88011a8d2037d5102a
+code/lib/third_party/canonical-correlation-maps/Squash.m,Projects\Sensorimotor\Scripts\CCA\canonical-correlation-maps-main\util\Squash.m,49de2e1da0d1c0eab4022a3c7f4a798c,2023-08-25 10:04,49de2e1da0d1c0eab4022a3c7f4a798c
+code/lib/third_party/confplot.m,Projects\Sensorimotor\Analysis\proj\confplot.m,648b68233d6599e96c2f2ce573c31710,2018-09-22 21:32,45942b1c3bae03cab45aa14f16f3db27
+code/lib/third_party/distinguishable_colors.m,Analysis Suite\Data Visualization\distinguishable_colors.m,57960cf5d13cead2f1e291d1288bccb2,2023-04-07 09:44,57960cf5d13cead2f1e291d1288bccb2
+code/lib/third_party/janelia_whisker/LoadMeasurements.m,Analysis Suite\PIPELINE\BEHAVIOR\whisker_tracking\misc\whisker_tracking\clack_add_on\LoadMeasurements.m,ba980d048cbd6b0da0cc01141ad4e64a,2012-04-06 10:17,ba980d048cbd6b0da0cc01141ad4e64a
+code/lib/third_party/janelia_whisker/LoadWhiskers.m,Analysis Suite\PIPELINE\BEHAVIOR\whisker_tracking\misc\whisker_tracking\clack_add_on\LoadWhiskers.m,8ee2d050dc0afdfb19eb1698085939f0,2012-04-06 10:17,8ee2d050dc0afdfb19eb1698085939f0
+code/lib/third_party/loadtiff.m,Analysis Suite\PIPELINE\2P\CaImAn-MATLAB-master\loadtiff.m,398bea9ccf6c22936b08d25c83cb6cd8,2023-07-18 13:59,118eea8497b293185c6f10feec2e4ff2
+code/lib/third_party/natsort.m,Analysis Suite\PIPELINE\BEHAVIOR\whisker_tracking\06_import_measurements\natsort.m,24060a3655abdf7da65d17fd50d0b3ac,2019-03-24 22:33,da71502ea5841967b1bb8bec3b499e14
+code/lib/third_party/violin.m,Analysis Suite\Data Visualization\violin.m,6137d6124c3454b25624b6ec1cce79f3,2015-11-03 16:47,f334c1ba32a38f6066c6ceca64bbf75a
+code/mcherry/ANALYZE_PROJ.m,Projects\Sensorimotor\Analysis\mCherry\ANALYZE_PROJ.m,29562d6c1a63b6ac32e590889f024f20,2026-03-21 09:46,8b1c8d4501704b749c168a3b0abb5d07
+code/mcherry/BATCH_IFI_mCherry.m,Projects\Sensorimotor\Analysis\mCherry\BATCH_IFI_mCherry.m,c8f41bc20e2dfd9040f7c79651304387,2026-02-26 21:38,4de15affc707086ef773708bf9401d36
+code/mcherry/project_correlation.m,Projects\Sensorimotor\Analysis\mCherry\project_correlation.m,7bc04f8214ead94e3314716486925fc6,2026-03-21 09:22,4552bffb68b5f3fe9835cc1f22395d2b
+code/pipeline_cca/CanonicalCrossCorrelationSubtype.m,Projects\Sensorimotor\Scripts\CCA\CanonicalCrossCorrelationSubtype.m,c756a1ef11829657b75be91611f1b46b,2025-08-07 12:09,c756a1ef11829657b75be91611f1b46b
+code/pipeline_cca/LoadCCA.m,Projects\Sensorimotor\Scripts\CCA\LoadCCA.m,f7c4bf9f8d2803a82674f6377559b441,2025-03-31 09:46,0e56a17f31dcf12010de099f08d3ce10
+code/pipeline_cca/SummarizeCCA.m,Projects\Sensorimotor\Scripts\CCA\SummarizeCCA.m,c379316b3aee9aad66c72fd7a2a2306b,2024-07-09 12:11,d097556dee813f6a7a989c58af431aea
+code/pipeline_cca/activity_PCA.m,Projects\Sensorimotor\Scripts\CCA\activity_PCA.m,c0fe0d35ea46f5cde274a6843382ae95,2026-02-23 13:14,5509bea937167c144ada8ffb639a4b5f
+code/pipeline_cca/align_activity.m,Projects\Sensorimotor\Scripts\CCA\align_activity.m,b302ef391cbd6d25015b607f838e4f85,2026-02-18 13:21,5db5abbbe43978bedca0447be8a5a70d
+code/pipeline_cca/cca_coeff_2_roi.m,Projects\Sensorimotor\Scripts\CCA\cca_coeff_2_roi.m,7c143990ccd431fd5e0e64e644ca88d2,2023-12-22 21:11,cdf9545e80f537213c30d7b5012fe225
+code/pipeline_cca/exclude_mcherry_cells.m,Projects\Sensorimotor\Scripts\CCA\exclude_mcherry_cells.m,194b475559eea0b2a2acec6d069e90c3,2024-02-12 14:36,9803911c0ce0b2f651b878282509329f
+code/pipeline_cca/export_CCA_data.m,Projects\Sensorimotor\Scripts\CCA\export_CCA_data.m,2b808647ddda3d445347c0bec9d877e0,2024-12-17 15:47,696ec37a2255cac7120d6ac39e71cab5
+code/pipeline_cca/filter_activity.m,Projects\Sensorimotor\Scripts\CCA\filter_activity.m,de6f269da9ef40d4e6b567838fcb51f9,2026-02-13 13:16,5ef911a113efa021019f284c08b38013
+code/pipeline_cca/get_CCA_coef.m,Projects\Sensorimotor\Analysis\get_CCA_coef.m,e1ee953789a1deeb7a4552f62a2c785b,2026-02-15 21:41,a35f03ba57ed3ffb77813551018bcadd
+code/pipeline_cca/get_act_corr.m,Projects\Sensorimotor\Scripts\correlation\get_act_corr.m,3f3852091fe1cc538cb61c1a88159f7a,2023-09-18 09:52,3b9e5f713ed1657b2d447645b250cfdd
+code/pipeline_cca/get_corr_beta.m,Projects\Sensorimotor\Scripts\correlation\get_corr_beta.m,b5cfdb46e1dfd7da825d16ffa27309e6,2025-03-31 14:27,8c695b4c8d09116dce7da6ba8c5a7575
+code/pipeline_cca/get_interfov_corr.m,Projects\Sensorimotor\Scripts\correlation\get_interfov_corr.m,1076ddce37b0145030735d9d11102934,2023-09-15 14:04,4bcdfce86ffa778a68b78f8c33f91afe
+code/pipeline_cca/get_trial_labels.m,Projects\Sensorimotor\Scripts\CCA\get_trial_labels.m,13e1da54cb1933b46ce2a9ad67a9766d,2024-11-22 13:17,e85d53bfaa8f744e8faec66deb194847
+code/pipeline_cca/make_comparison_struct.m,Projects\Sensorimotor\Scripts\CCA\make_comparison_struct.m,4d5256f635427b609d4bdbefbe71eb59,2024-01-03 15:16,1ab23b28aea4166ccc5e76d204ae6ae9
+code/pipeline_cca/perform_CCA_sub.m,Projects\Sensorimotor\Scripts\CCA\perform_CCA_sub.m,66448075e67a7fcd436ea30fd5c6c898,2026-09-17 16:01,95fe44f888a61d6083a0aa461cb32d52
+code/pipeline_cca/prepare_CCA_data.m,Projects\Sensorimotor\Scripts\CCA\prepare_CCA_data.m,3303d13b471d5284a78ac80cd26f30b0,2025-03-31 13:39,3529984d1406f13e3de759de81199ab0
+code/pipeline_cca/resample_activity.m,Projects\Sensorimotor\Scripts\resample_activity.m,8a5fa44c9e33474d29799507c399206a,2023-10-10 11:38,a76bf6091031f5db074538f72be6bf72
+code/pipeline_cca/run_PCA_SM.m,Projects\Sensorimotor\Scripts\CCA\run_PCA_SM.m,ad8a85069398e2b6e81a9c6feb3d093b,2024-11-22 14:47,cffc464de63c2b0761b9e45fee4cac0f
+code/pipeline_cca/set_CCA_params.m,Projects\Sensorimotor\Scripts\CCA\set_CCA_params.m,289a1940c566f79f6ae491d542bbb04d,2026-02-13 17:06,c783dd6c7076fe35377e2b1a52a3924e
+code/pipeline_cca/setup_SM_workspace.m,Projects\Sensorimotor\Scripts\setup_SM_workspace.m,cde4b3fffb867c32e5af31572fb92b02,2024-02-22 15:35,5f093ff000a46deba1f4f23a99e66063
+code/pipeline_cca/setup_windows.m,Projects\Sensorimotor\Scripts\CCA\setup_windows.m,fb2643888c83539828eb03513cfcf81c,2024-02-15 13:04,31421ebe1daab4f750367da7ea9d6b6c
+code/pipeline_cca/show_CCA_results.m,Projects\Sensorimotor\Scripts\CCA\show_CCA_results.m,95b8668e224e1d14c451015ba581cedb,2024-01-05 14:03,fd308024b62667aee887acd896a6528e
+code/pipeline_cca/standardize_multitrial.m,Projects\Sensorimotor\Scripts\CCA\standardize_multitrial.m,256071cf4d4ee5e50b356c718660e0ce,2024-11-25 11:58,650d68eb49acc2d8e7f69809029fee38
+code/pipeline_cca/window_activity.m,Projects\Sensorimotor\Scripts\CCA\window_activity.m,604987aff9aea880f49a15a83ac60c97,2023-12-22 13:59,d879b264ed682e19c6418ebb4e818861
+code/preprocessing/CHEN_2P_Pipeline_Step_01.m,Analysis Suite\PIPELINE\2P\CHEN_2P_Pipeline_Step_01.m,eb98a576222307d6af11e44fc646d1fb,2024-06-19 16:39,990488d46ec903e714dcc2d9753daead
+code/preprocessing/CHEN_2P_Pipeline_Step_02a.m,Analysis Suite\PIPELINE\2P\CHEN_2P_Pipeline_Step_02a.m,13906425e2319424ac5514c3c251b0e6,2026-07-20 16:35,1743caea834b9969b7ec441346a3ff53
+code/preprocessing/CHEN_2P_Pipeline_Step_02b.m,Analysis Suite\PIPELINE\2P\CHEN_2P_Pipeline_Step_02b.m,4bce1cffd1390707816ab002f3cc6ef8,2026-04-06 13:57,bdb7e70ef8ba6982c7b2197c31c5cc5c
+code/preprocessing/CHEN_2P_Pipeline_Step_03_Area_SCC.m,Analysis Suite\PIPELINE\2P\CHEN_2P_Pipeline_Step_03_Area_SCC.m,bddd606575a2f5eb4edd80680fcbd2ab,2024-06-19 14:36,191e708ecbc3488e6be9321bd7cc25e2
+code/preprocessing/CHEN_2P_Pipeline_Step_04_edit.m,Analysis Suite\PIPELINE\2P\CHEN_2P_Pipeline_Step_04_edit.m,8c20ff0631e31034886810b72ac80f9d,2024-01-24 18:34,ae4d0b0c5bd7944d45e95fbacba3ad27
+code/preprocessing/CHEN_2P_Pipeline_Step_04_old.m,Analysis Suite\PIPELINE\2P\CHEN_2P_Pipeline_Step_04_old.m,597f53ff8d819965ac0e907b0d938b33,2026-02-14 20:55,4d652e711826df8983ece62b05667855
+code/preprocessing/CHEN_2P_Pipeline_Step_07.m,Analysis Suite\PIPELINE\2P\CHEN_2P_Pipeline_Step_07.m,46cb585d81c52a6f803db0f1db8e2488,2026-07-10 15:48,90aed530c5f2e393ecb99d3d70b0ce39
+code/preprocessing/cell_type_annotation/get_static_reference.m,Analysis Suite\PIPELINE\2P\cell_type_annotation\get_static_reference.m,4e19d01ec9e6a8b5fd4edc1bfab1ecd1,2023-12-28 13:59,21d19537ec0f7634f1b3828d182b3a81
+code/preprocessing/cell_type_annotation/label_cell_type_ratio.m,Analysis Suite\PIPELINE\2P\cell_type_annotation\label_cell_type_ratio.m,9bee223976260886e71d6203e0fd86ea,2026-02-14 13:47,560eaa9018674e81ea41758f55970785
+code/preprocessing/deconvolve_traces.m,Analysis Suite\PIPELINE\2P\deconvolve_traces.m,1d211c519a147ebd4759112044a98720,2026-07-10 15:48,73004972855fbefe0cae9150a90ec5c0
+code/preprocessing/dftregistration.m,Analysis Suite\PIPELINE\2P\correct_unaveraged\dftregistration.m,795223843adc387e01a219d3fcd8546d,2022-07-16 13:05,c3de3403e9274405085506365238693e
+code/preprocessing/flip/CHEN_Flip_Signed.m,Analysis Suite\PIPELINE\2P\Flip\CHEN_Flip_Signed.m,4d1a953c2a9028b4e3ff631cba9e5e36,2026-07-20 10:03,a7e0ca4199beefde48f2f0c202037e9b
+code/preprocessing/flip/UCLA_ReadTiff.m,Analysis Suite\PIPELINE\2P\Flip\UCLA_ReadTiff.m,b162f47016a17b8c5c20fc49f7198b9d,2024-07-23 11:25,e01e9f5f0da323e2a01f2270cde16971
+code/preprocessing/flip/WriteTiff.m,Analysis Suite\PIPELINE\2P\Flip\WriteTiff.m,137f1b17e4f9b6cd5ec9c42a76e2286d,2023-03-05 10:43,6d3e28059f6e7bd73f6627d3a3c24e49
+code/preprocessing/flip/estimate_flip.m,Analysis Suite\PIPELINE\2P\Flip\estimate_flip.m,a4814016e9eb37e96e16082a345cc41b,2024-07-23 11:20,15ec955b961a8c3d7360f39619d4812d
+code/preprocessing/flip/fixOffsetAndDewarp.m,Analysis Suite\PIPELINE\2P\Flip\fixOffsetAndDewarp.m,83c2263441640ff1ac6afde145c3b45c,2023-01-23 11:36,83c2263441640ff1ac6afde145c3b45c
+code/preprocessing/flip/makeMaps2.m,Analysis Suite\PIPELINE\2P\Flip\makeMaps2.m,aeb939d94fa22e74ae2bfa5e0385a92f,2023-01-23 11:36,aeb939d94fa22e74ae2bfa5e0385a92f
+code/preprocessing/flip/readTiff.m,Analysis Suite\PIPELINE\2P\Flip\readTiff.m,435aea0dcaacf1965e12e576aa1e4a55,2024-05-31 15:40,435aea0dcaacf1965e12e576aa1e4a55
+code/preprocessing/get_2P_paths.m,Analysis Suite\PIPELINE\2P\get_2P_paths.m,900bc945355ba8a1db370251acbd26fc,2026-04-06 09:02,ead006d16568f2b6472ca6b8b544b75e
+code/preprocessing/manual_extraction/ROI_boundary2mask.m,Analysis Suite\PIPELINE\2P\manual_extraction\ROI_boundary2mask.m,5e75cf5cbeb94b7bf3ea944db7ea802c,2020-11-12 16:37,e770f4d62e281c36a12408aa19b77f17
+code/preprocessing/manual_extraction/extract_f.m,Analysis Suite\PIPELINE\2P\manual_extraction\extract_f.m,8fa6b4b2740f6b41580afd2e2d91bfb2,2025-12-09 15:19,f787812e08ef9698da96520adb59435d
+code/preprocessing/manual_extraction/mask2poly.m,Analysis Suite\PIPELINE\2P\manual_extraction\mask2poly.m,83ca2f788066d8080d015ffda90e59bb,2020-11-12 16:06,042d1bbf4bc24007c45f314df3768581
+code/preprocessing/manual_extraction/recalculate_b.m,Analysis Suite\PIPELINE\2P\manual_extraction\recalculate_b.m,72f2e65010b2202441892a5899a2adcd,2025-11-26 16:07,96c734ec612fc56e1fdbf104d4dbd3f2
+code/preprocessing/modified_gpl/deconvolveCaE.m,Analysis Suite\PIPELINE\2P\OASIS_matlab-master\oasis\deconvolveCaE.m,88622e0c5e36c11c0125ead5f8adcf57,2023-04-21 19:16,88622e0c5e36c11c0125ead5f8adcf57
+code/preprocessing/modified_gpl/filter_border_ROIs_jc.m,Analysis Suite\PIPELINE\2P\CaImAn-MATLAB-master\filter_border_ROIs_jc.m,91cd75f0dba5d8d43bee50a23c35ffb8,2019-11-25 11:06,bd6fe6b25372d15acea8cb87a11bfffb
+code/preprocessing/modified_gpl/normcorre_chen.m,Analysis Suite\PIPELINE\2P\NoRMCorre-master\normcorre_chen.m,8070788b1c9a4356eea6f70e508a2538,2021-03-25 22:46,e718f0365b599135836b195ef2ef14ef
+code/preprocessing/modified_gpl/normcorre_chen_batch.m,Analysis Suite\PIPELINE\2P\NoRMCorre-master\normcorre_chen_batch.m,27263fc6c20c604ebd36e5c843dda031,2026-08-26 00:43,50ace71f078b2cb0f995b8b309911d5c
+code/preprocessing/modified_gpl/update_spatial_components_axg.m,Analysis Suite\PIPELINE\2P\CaImAn-MATLAB-master\update_spatial_components_axg.m,bad7d54363659d24e7b4ed33f137dbda,2023-03-16 16:43,7e74cc47fa8e9fd2a474a04ac65606e8
+code/preprocessing/modified_gpl/update_temporal_components_axg.m,Analysis Suite\PIPELINE\2P\CaImAn-MATLAB-master\update_temporal_components_axg.m,a4da92e303fdd37d8a75e48b53c7c928,2024-03-10 16:34,37753fd42ae912fe2405e98edee5b53b
+code/preprocessing/subtract_baseline.m,Analysis Suite\PIPELINE\2P\subtract_baseline.m,3f10361a3c078bcf33d5d98f0d141782,2026-07-10 15:54,1b9ffcb4e04da7d6ad10fc100f22fd23
+code/reviewer_svm_ablation/DISPLAY_svm_ablation.m,Projects\Sensorimotor\Analysis\R1C1_svm_ablation\DISPLAY_svm_ablation.m,c656327fbbcdef25d71ae8bf7d711d35,2026-09-02 21:19,0dbd0d2b3ffcc7b82362b6167133cfbf
+code/reviewer_svm_ablation/SVM_ABLATION.m,Projects\Sensorimotor\Analysis\R1C1_svm_ablation\SVM_ABLATION.m,3f041b67c13a7e1c652f0bb4eb9acb7a,2026-09-02 21:10,5e6c4d06f23a370169bda47eb98cc598
+code/singlecell/FIGURE_RASTER.m,Projects\Sensorimotor\Manuscript\NatComm\original_submission\Figures\FIGURE_RASTER.m,2ba1260ea6e5ec927b89641f82275801,2024-12-14 13:33,fee19fe636e8d6eb6a008d2dc102cdf3
+code/singlecell/MACRO.m,Projects\Sensorimotor\Analysis\singlecell\MACRO.m,67444155750b1ba4f5cb2dc6c1edbcbc,2026-06-22 04:03,f85186e012fbced129414f9731520880
+code/singlecell/MAIN_SC_BINNED.m,Projects\Sensorimotor\Analysis\singlecell\MAIN_SC_BINNED.m,0ea36ce16e89492b33876dbf3a889411,2025-08-15 17:03,4145bd8ba364a3fbb1c1416c9121114f
+code/singlecell/assign_area.m,Projects\Sensorimotor\Analysis\singlecell\assign_area.m,5c8f168c8f61375e59074bd68fe83e3e,2026-06-19 00:13,06a1b10b853a3e696ee4ff8399f8c3e3
+code/singlecell/idCCA.m,Projects\Sensorimotor\Analysis\singlecell\idCCA.m,961d03b4c6571c4655df34554c6dc9fe,2026-06-19 00:35,ae1ec6f3987d4874865bc886cc1e217f
+code/singlecell/multibar.m,Projects\Sensorimotor\Analysis\singlecell\multibar.m,30b4424a281d676f61fa077e43f36d1a,2025-08-16 21:12,5c2eca98ef0a08e86b3731e262ea2dfb
+code/singlecell/run_comparison.m,Projects\Sensorimotor\Analysis\singlecell\run_comparison.m,86de1a19210d94950e023d9c31b6ae40,2025-08-15 20:22,1effca41c235b94c48ab39133570f57f
+code/singlecell/summarize_area.m,Projects\Sensorimotor\Analysis\singlecell\summarize_area.m,4ef521547d8b46c5ecc625d9692ad0d3,2026-03-11 14:58,dc323a7f099c40864519a14a85eb65eb
+code/singlecell/summarize_area_mCherry.m,Projects\Sensorimotor\Analysis\singlecell\summarize_area_mCherry.m,f2feb6ef2704b603ae476edad21319d8,2026-03-02 15:31,29b02a46bc974bc4758bcf96720264b8
+code/singlecell/summarize_area_probe_test.m,Projects\Sensorimotor\Analysis\singlecell\summarize_area_probe_test.m,d7de870018e1f69b0bc0afdddd39ebb0,2026-03-15 10:05,4cee7cb95fbc3758ca6126b0070e521d
+code/svm/MACRO_PCA_BINNED.m,Projects\Sensorimotor\Analysis\svm\MACRO_PCA_BINNED.m,250198ecbe8808ec5402c07c2caf9362,2026-02-14 22:33,f536dbc9a7fd2b387c6804b92ae087ea
+code/svm/MAIN_PCA_BINNED.m,Projects\Sensorimotor\Analysis\svm\MAIN_PCA_BINNED.m,ac2ecceb0e5a99ecfe58245d737ae173,2024-12-31 20:23,8169116ebe33b9e53f1d70b0a8409bff
+code/svm/MAIN_PCA_BINNED_CROSS.m,Projects\Sensorimotor\Analysis\svm\MAIN_PCA_BINNED_CROSS.m,2e98042c79b64e230fa519ccf1ddbd1a,2025-01-01 02:03,645baef55f7e638a94c01a5fe3a117af
+code/svm/MAIN_PCA_BINNED_CROSS_UI.m,Projects\Sensorimotor\Analysis\svm\MAIN_PCA_BINNED_CROSS_UI.m,b30d42a4e1f2bfa70640183266f96ed3,2025-01-14 13:18,1aae986e24e74368b85e9a5bf72d3512
+code/svm/MAIN_PCA_BINNED_UI.m,Projects\Sensorimotor\Analysis\svm\MAIN_PCA_BINNED_UI.m,217f924a97e3591ad7d30f77217e5430,2026-02-11 15:55,efc07066ef31338403cd3f57e6f229fa
+code/svm/plot_bar_svm_binned.m,Projects\Sensorimotor\Analysis\svm\plot_bar_svm_binned.m,a13f2d72396be050c509f3b1d4dcbb6f,2025-01-17 20:29,8ec574970dc82bc246ffd3b90f9dd7da
+code/svm_cca/FIG5_STATS.m,Projects\Sensorimotor\Analysis\CHECKLIST10_Fig5_stats\FIG5_STATS.m,4f45666dbd43bf649da0ed6d57c7b287,2026-09-16 01:22,7ee98f2b95efcbaadde88ec53889c178
+code/svm_cca/SVM_CCA_alignment.m,Projects\Sensorimotor\Analysis\SVM_CCA_alignment.m,576801e3ccf7c3edbb71731caef902ec,2025-07-04 11:44,84acd83168fae10c710a37aeafd5858f
+code/svm_cca/SVM_CCA_alignment_UI.m,Projects\Sensorimotor\Analysis\SVM_CCA_alignment_UI.m,f74229ad0a46af0aafb7195cad440753,2025-03-22 16:32,261941f4cbc88e45b077c61a725b4846
+code/whisker_tracking/Steps_236.m,Analysis Suite\PIPELINE\BEHAVIOR\whisker_tracking\Steps_236.m,97fd98688cce3e31c8e617dc22255d22,2023-07-25 13:50,1369b32918f57a6e1ede1b64c2a221a1
+code/whisker_tracking/TRACE_WHISKER_NO_TRAIN.m,Analysis Suite\PIPELINE\BEHAVIOR\whisker_tracking\03_import_data\TRACE_WHISKER_NO_TRAIN.m,42c1da754cef191fde6b9310c2ac365e,2024-07-08 10:44,667173d3c490577cb0d069fbe81555ad
+code/whisker_tracking/import_measurements/IMPORT_MEASUREMENTS.m,Analysis Suite\PIPELINE\BEHAVIOR\whisker_tracking\06_import_measurements\IMPORT_MEASUREMENTS.m,e1a3d350c9a34e8cf92ac97d728fdd50,2024-07-08 10:44,4c42b800e01ee73aa5c56954e0cf312a
+code/whisker_tracking/import_measurements/build_measurements.m,Analysis Suite\PIPELINE\BEHAVIOR\whisker_tracking\common scripts\build_measurements.m,2b55f592bc40431d57462786a591c0cb,2019-09-05 14:39,6e567708dcb22c3a78f8f289c60220d9
+code/whisker_tracking/import_measurements/generate_whisker_mats.m,Analysis Suite\PIPELINE\BEHAVIOR\whisker_tracking\06_import_measurements\generate_whisker_mats.m,2f9b5013acbd639198ba8d575f98c168,2023-07-24 13:24,d670afbec56199290b54fa60186b7473
+code/whisker_tracking/import_measurements/get_object.m,Analysis Suite\PIPELINE\BEHAVIOR\whisker_tracking\06_import_measurements\get_object.m,05cfc771c6d003b45792b764288c5db7,2021-02-22 16:37,17d732d358dfca49e19bf05e8249f17d
+code/whisker_tracking/import_measurements/get_touch.m,Analysis Suite\PIPELINE\BEHAVIOR\whisker_tracking\06_import_measurements\get_touch.m,590dd443da73d9028dd54ed5d8a62cca,2019-07-24 16:04,80a1a01732a72d40497e1551ffb8b916
+code/whisker_tracking/import_measurements/get_touch_radius.m,Analysis Suite\PIPELINE\BEHAVIOR\whisker_tracking\06_import_measurements\get_touch_radius.m,33c90da624615a86605c7d4d8fa91d45,2019-07-24 13:51,2481dad5bb1591314661b7b1f8e99684
+code/whisker_tracking/import_measurements/import_angles_curves.m,Analysis Suite\PIPELINE\BEHAVIOR\whisker_tracking\06_import_measurements\import_angles_curves.m,7c4721b8fbcb394e2509e42c3bc2e324,2022-11-29 14:22,e8469bfa3dc499d81a856c62ec5be90f
+code/whisker_tracking/import_measurements/import_object_vector.m,Analysis Suite\PIPELINE\BEHAVIOR\whisker_tracking\06_import_measurements\import_object_vector.m,fec0044a2a54c2c268467f3cfa4e1e48,2021-02-22 16:37,8749fa952fda993dbc907ae3a33ebe2f
+code/whisker_tracking/import_measurements/import_touch_vector.m,Analysis Suite\PIPELINE\BEHAVIOR\whisker_tracking\06_import_measurements\import_touch_vector.m,3fdbef93e390f0eab2a06aca67aa3ff7,2019-09-08 18:49,f7e5832fe5dc40ce9d38bf97c067df71
+code/whisker_tracking/import_measurements/median_angle_curve.m,Analysis Suite\PIPELINE\BEHAVIOR\whisker_tracking\06_import_measurements\median_angle_curve.m,59c4ece370368e4af2cda5690817e65f,2022-11-29 14:21,515a79f3ef5e0e1927ca08e43956d5db
+code/whisker_tracking/import_measurements/save_parfor2.m,Analysis Suite\PIPELINE\BEHAVIOR\whisker_tracking\06_import_measurements\save_parfor2.m,eb76e6a4a096d4b1a4939806063fbad2,2019-11-25 17:39,bd8e265efcd20444c5c460979fa28925
+code/whisker_tracking/panel_tracking/OBJECT_TRACKING_NOTRAINING.m,Analysis Suite\PIPELINE\BEHAVIOR\whisker_tracking\02_texture panel tracking\OBJECT_TRACKING_NOTRAINING.m,2a6df373c080f010c0a766640ae6eeb6,2024-07-08 10:43,91af13dba0c8c9dab9a38406caae70e7
+code/whisker_tracking/panel_tracking/panelTracking.m,Analysis Suite\PIPELINE\BEHAVIOR\whisker_tracking\02_texture panel tracking\panelTracking.m,00c75c8c20f11330b9b30597ce2e8b29,2023-05-10 09:38,ee1363b3a84a65f4975cce6cd1f917c7
+code/whisker_tracking/panel_tracking/panelTracking_parallel.m,Analysis Suite\PIPELINE\BEHAVIOR\whisker_tracking\02_texture panel tracking\panelTracking_parallel.m,75816e5786731addfff5231a27c8f26d,2023-05-10 09:37,509fd45b758f54845dd0d5905588f106

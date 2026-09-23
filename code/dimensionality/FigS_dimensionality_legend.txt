@@ -1,0 +1,9 @@
+Figure S#. Effective dimensionality of population activity during the probe and goal periods.
+Participation ratio of single-trial population activity for S1, S2, M1A, and M1B during the probe
+(grey) and goal (blue) stimulus periods. Effective dimensionality was significantly lower during the
+goal period in all four areas, consistent with task representations converging onto a lower-dimensional,
+shared subspace during goal-directed behavior. Error bars: SEM. n = 40 sessions from 6 animals.
+**P<0.01, ***P<0.001, paired Student's t test.
+
+[Alternative finding-style title, if preferred to match main figures:]
+Figure S#. Population dimensionality decreases during goal-directed behavior.

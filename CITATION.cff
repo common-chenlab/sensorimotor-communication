@@ -1,0 +1,57 @@
+# Citation metadata for the analysis code. GitHub shows it as "Cite this repository", and
+# Zenodo reads it when archiving a GitHub release.
+# TODO before the first release: set version and date-released, and add the article DOI to
+# preferred-citation once issued. The Zenodo DOI is added after Zenodo mints it.
+cff-version: 1.2.0
+message: "If you use this code, please cite the article below and this software release."
+type: software
+title: "sensorimotor-communication: analysis code for Dynamic engagement of long-range communication across sensorimotor cortex during flexible behavior"
+abstract: >-
+  MATLAB code producing every figure panel of Blaeser, Clough, Ahrens and Chen (Nature
+  Communications): population decoding, inter-areal communication subspaces from canonical
+  correlation analysis, an information flow index, and in-silico silencing of
+  projection-labelled neurons, together with the lab code used to preprocess the two-photon
+  imaging and to track whiskers. The data are published separately on G-Node GIN.
+authors:
+  - given-names: "Andrew S."
+    family-names: "Blaeser"
+    affiliation: "Boston University"
+    orcid: "https://orcid.org/0000-0002-3897-6143"
+  - given-names: "Mitchell"
+    family-names: "Clough"
+    affiliation: "Boston University"
+    orcid: "https://orcid.org/0000-0002-7773-7444"
+  - given-names: "Allison M."
+    family-names: "Ahrens"
+    affiliation: "Boston University"
+  - given-names: "Jerry L."
+    family-names: "Chen"
+    affiliation: "Boston University"
+    orcid: "https://orcid.org/0000-0002-7409-7859"
+repository-code: "https://github.com/common-chenlab/sensorimotor-communication"
+license: MIT
+keywords:
+  - neuroscience
+  - two-photon calcium imaging
+  - sensorimotor cortex
+  - communication subspace
+  - canonical correlation analysis
+  - population coding
+  - MATLAB
+version: "TODO"
+date-released: "2026-01-01"  # TODO: placeholder, set to the release date
+preferred-citation:
+  type: article
+  title: "Dynamic engagement of long-range communication across sensorimotor cortex during flexible behavior"
+  authors:
+    - given-names: "Andrew S."
+      family-names: "Blaeser"
+    - given-names: "Mitchell"
+      family-names: "Clough"
+    - given-names: "Allison M."
+      family-names: "Ahrens"
+    - given-names: "Jerry L."
+      family-names: "Chen"
+  journal: "Nature Communications"
+  year: 2026
+  # doi: "TODO"
