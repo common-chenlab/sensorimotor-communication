@@ -42,7 +42,6 @@ Analysis Suite\Secondary Analysis\multiarea\get_licks.m,code/lib/chenlab/get_lic
 Analysis Suite\Secondary Analysis\GLM\General\make_x_y_common\get_trial_event_frames.m,code/lib/chenlab/get_trial_event_frames.m
 Analysis Suite\Secondary Analysis\multiarea\get_whisk.m,code/lib/chenlab/get_whisk.m
 Analysis Suite\PIPELINE\Misc\nanzscore.m,code/lib/chenlab/nanzscore.m
-Analysis Suite\Secondary Analysis\parseXML.m,code/lib/chenlab/parseXML.m
 Analysis Suite\PIPELINE\SCC\setup_parpool_SCC.m,code/lib/chenlab/setup_parpool_SCC.m
 Analysis Suite\Secondary Analysis\GENERAL_SVM\balance_idx.m,code/lib/chenlab/svm/balance_idx.m
 Analysis Suite\Secondary Analysis\GENERAL_SVM\prepare_run.m,code/lib/chenlab/svm/prepare_run.m

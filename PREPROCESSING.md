@@ -94,12 +94,14 @@ the analysis uses: `LoadMultiFOV` reads it into `fov.roi_mch`, which drives Fig.
 `CHEN_2P_Pipeline_Step_04_edit.m` is also included: it writes an alternative flag
 `celltype_REF_new` (`> 0.2` on a ratio-regression measure), which is present in the data
 but **not** used by the analysis; the line reading it in `LoadMultiFOV` is commented out.
-Both variants are shipped because both left fields in the deposited files. A search of the
-whole Analysis Suite finds `celltype_REF_angle` written only by `Step_04_old.m` and read only
-by `LoadMultiFOV.m`. File dates are consistent with `Step_04_old.m` having been run most
-recently: it was modified 2026-02-14, the same date as the `sm041` and `sm045` session files,
-while `Step_04_edit.m` dates to 2024-01-24, matching the older session files. **(confirm)**
-which was run for which sessions.
+Both variants are shipped because both left fields in the deposited files, and both were run
+on every session: a scan of the 44 deposited files (2026-09-23) finds `celltype_REF_angle`,
+`celltype_angle_thres`, `celltype_REF_new` and `celltype_ration_REF` in all of them, the only
+exception being sm045-5, whose M1 areas hold no curated neurons. A search of the whole
+Analysis Suite finds `celltype_REF_angle` written only by `Step_04_old.m` and read only by
+`LoadMultiFOV.m`, so the analyses use the `Step_04_old.m` labelling. The two flags mark
+different populations: across sessions the angle flag marks 55.7% of M1 neurons on average
+(range 8.3 to 96.6%) and the `_new` flag 21.7% (range 0 to 77.3%).
 
 **Step 07, deconvolution** (`deconv_params` as stored): `ROI_type` REF; notch 1.5 Hz, Q =
 2 (suppresses laser crosstalk between the scan engines); decay `tau_d` 1800 ms; rise
@@ -170,5 +172,6 @@ parameters and behaviour that shaped the deposited signals.
   writes `celltype_REF_new`. Between them they account for every `celltype_*` field in
   `CaA2`/`CaA3`, so both are included. The other variants in the lab folder (`Step_04.m`,
   `_ratio.m`, `_ratio_test.m`, `-swich_filters.m`) write `celltype_REF` only or nothing,
-  and are not included. **(confirm)** by the author.
+  and are not included. Verified against the deposited files: between them the two shipped
+  variants account for every `celltype_*` field present in `CaA2`/`CaA3`.
 - **Package versions** for the citations above.

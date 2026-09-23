@@ -50,16 +50,13 @@ if mat_path_exists
     [licks,~] = get_licks(data_struct);  % n_trial_licks
     [whisk, ~, tr_whisk_missing] = get_whisk(whisker_path, trials); % n_whisk
 
-    % [release] cleaned session files carry these values as CaA<k>.xml_params; read
-    % [release] parameters.xml from the acquisition server only for older files
-    use_xml = ~isfield(data_struct.CaA0, 'xml_params'); % [release]
-    if use_xml % [release]
-        % Read parameters.xml file
-        [~,behav_dir] = FileFinder(ChenLabFilepath(sprintf('%s%s\\2P\\%s-%i\\',W_dir, animal, animal, sess)), 'type',0, 'contains','Behavior');
-        [~, params_path] = FileFinder(behav_dir{1}, 'type','xml', 'contains','parameters');
-        %fprintf('\nReading %s', params_path{1})
-        params = parseXML(params_path{1}); % xmlread
-        stage_params = params.Children(strcmpi({params.Children.Name}, 'stage'));
+    % [release] the deposited session files carry these values as CaA<k>.xml_params, written
+    % [release] by tools/build_session_file.m from the acquisition server's parameters.xml.
+    if ~isfield(data_struct.CaA0, 'xml_params') % [release]
+        error('sm:noXmlParams', ['%s has no CaA<k>.xml_params, so it predates the deposited ' ...
+            'dataset. That field holds the field-of-view parameters that earlier versions read ' ...
+            'from parameters.xml on the lab acquisition server. Use the deposited session ' ...
+            'files, or rebuild this one with tools/build_session_file.m.'], mat_path); % [release]
     end % [release]
 
     % FOV-level metadata
@@ -84,21 +81,7 @@ if mat_path_exists
         fov(a).framerate = fov_data{a}.sampling_rate; % (a)
         
         % Read area-specific parameters from the xml file (per Mitch, MicronPerPixel fields are wrong and the Framerate_Hz field is only a rough estimate)
-        if ~use_xml % [release] same values, baked in by tools/build_session_file.m
-            fov(a).params = rmfield(fov_data{a}.xml_params, 'source'); % [release]
-        else % [release]
-            area_params = params.Children(string({params.Children.Name}) == sprintf('area%i',a-1)); % 'area0'
-            arm_params = area_params.Children(strcmpi({area_params.Children.Name}, 'framearm'));
-            fov(a).params.Framerate_Hz = area_params.Children(string({area_params.Children.Name}) == 'Framerate_Hz').Children.Data;
-            fpu_xy = area_params.Children(string({area_params.Children.Name}) == 'fpuxystage').Children;
-            fov(a).params.Xpos = str2double( fpu_xy(strcmpi({fpu_xy.Name}, 'XPosition_um') ).Children.Data ); % fpuxystage -> XPosition_um
-            fov(a).params.Ypos = str2double( fpu_xy(strcmpi({fpu_xy.Name}, 'YPosition_um') ).Children.Data ); % fpuxystage -> YPosition_um
-            % 2 versions of offsets appear under the framearm node, USE THE SECOND PAIR
-            fov(a).params.Xoffset = str2double( arm_params.Children(find(strcmpi({arm_params.Children.Name}, 'XOffset_Fraction'),1, 'last')).Children.Data );
-            fov(a).params.Yoffset = str2double( arm_params.Children(find(strcmpi({arm_params.Children.Name}, 'YOffset_Fraction'),1, 'last')).Children.Data );
-            fov(a).params.Xstage = str2double( stage_params.Children((strcmpi({stage_params.Children.Name}, 'XPosition_um'))).Children.Data );
-            fov(a).params.Ystage = str2double( stage_params.Children((strcmpi({stage_params.Children.Name}, 'YPosition_um'))).Children.Data );
-        end % [release]
+        fov(a).params = rmfield(fov_data{a}.xml_params, 'source'); % [release] was parsed from parameters.xml on the acquisition server
 
         % Get red/green channel projections from step4
         preproc_dir = ChenLabFilepath(sprintf('%s%s\\2P\\%s-%i\\PreProcess\\',W_dir, animal, animal, sess));

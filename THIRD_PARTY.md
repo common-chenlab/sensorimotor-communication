@@ -9,8 +9,7 @@ described in `README.md`. Original author headers are kept in each file.
 | `canonical-correlation-maps/CanonCorr.m`, `CanonCorrFitAndPredict.m`, `BinTime.m`, `Squash.m` | J. D. Semedo, *canonical-correlation-maps* (Semedo et al., Nat Commun 2022), github.com/joao-semedo/canonical-correlation-maps | MIT (`canonical-correlation-maps/LICENSE`) | confirmed |
 | `loadtiff.m` | YoonOh Tak, 2012; modified by E. Pnevmatikakis (CaImAn) | BSD 2-clause, full text in the file header | confirmed 2026-09-23 from the file header |
 | `janelia_whisker/LoadWhiskers.m`, `LoadMeasurements.m` | Nathan Clack, Janelia (whisk, github.com/nclack/whisk) | Janelia Farm Research Campus Software Copyright 1.1, a 3-clause BSD variant; text in `licenses/janelia-whisker-LICENSE.txt` | confirmed 2026-09-23 from the upstream repository |
-| `code/lib/chenlab/svm/wsvmmodel_cross_shuffles.m` | Talayeh Razzaghi & Petros Xanthopoulos, 2014 (weighted SVM), modified in the lab | unknown | **confirm** |
-| `code/lib/chenlab/parseXML.m` | appears to follow the MathWorks `xmlread` documentation example | MathWorks example | **confirm** |
+| `code/lib/chenlab/svm/wsvmmodel_cross_shuffles.m` | Talayeh Razzaghi & Petros Xanthopoulos, 2014 (weighted SVM), University of Central Florida; modified in the lab | no license stated by the authors | redistributed with attribution, author header intact; permission is being sought and this entry will be updated (A.B., 2026-09-23) |
 
 ## MATLAB File Exchange functions, not included
 
@@ -32,9 +31,9 @@ listed. Everything else runs without them.
 
 The first two affect reported statistics; the rest affect figures or convenience only.
 
-"confirm" in the table above means the license was inferred from the file's origin rather
-than read from a license file. Each remaining one must be checked, and its license text
-added next to the file, before the repository is made public.
+`parseXML.m`, which followed the MathWorks `xmlread` documentation example, has been removed:
+the deposited session files carry the field-of-view parameters it used to read, and
+`LoadMultiFOV` now raises a clear error on any session file that predates the deposit.
 
 ## Modified GPL files
 

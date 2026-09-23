@@ -29,7 +29,7 @@ code/ifi/calculate_IFIbeta.m,Projects\Sensorimotor\Scripts\CCA\calculate_IFIbeta
 code/lib/chenlab/ChenLabFilepath.m,Analysis Suite\PIPELINE\ChenLabFilepath.m,fcf507b0d96681521bf5527912448c5b,2025-04-16 10:13,116fe187e76d77e5d63b9dbbd9970d6d
 code/lib/chenlab/FileFinder.m,Analysis Suite\PIPELINE\FileFinder.m,676e030373fe8dbf8b4ee2f8a6f3793b,2024-02-22 15:18,769ae161b3bfbb84fda7d0acb0451798
 code/lib/chenlab/GetTrialSubsets.m,Analysis Suite\Secondary Analysis\GetTrialSubsets.m,2bc6147e7a6bf84d2ffbc2febd3ed1cc,2024-01-03 12:03,2c9fb0349c43cdaa4fba8923ba6a3e0b
-code/lib/chenlab/LoadMultiFOV.m,Analysis Suite\Secondary Analysis\multiarea\LoadMultiFOV.m,e3fd238d6962b37d6bbd2c0e3df3b243,2026-02-19 08:54,6b33bb34f918dc540f0ac32def028102
+code/lib/chenlab/LoadMultiFOV.m,Analysis Suite\Secondary Analysis\multiarea\LoadMultiFOV.m,e3fd238d6962b37d6bbd2c0e3df3b243,2026-02-19 08:54,c552731f4cf6318f19884e069050e90b
 code/lib/chenlab/MakeChunkLims.m,Analysis Suite\PIPELINE\Misc\MakeChunkLims.m,0bd80fce629653ee17ed9d50d5aab475,2024-02-13 20:53,4a56ba3beacd8c4c70e0c75c28f27474
 code/lib/chenlab/MakeGaussFilt.m,Analysis Suite\PIPELINE\Misc\MakeGaussFilt.m,a8a7a68974092cc1f22368407376c3aa,2023-09-20 16:13,7ecd6de28c8834a129fad93e6f05c24b
 code/lib/chenlab/ParforProgressbar.m,Analysis Suite\PIPELINE\Misc\ParforProgressbar.m,3dc67882a26ce93c2113712e18fff014,2026-03-17 09:37,a6cab11ac5f0e0bbcd03012d3809bdbc
@@ -43,7 +43,6 @@ code/lib/chenlab/get_licks.m,Analysis Suite\Secondary Analysis\multiarea\get_lic
 code/lib/chenlab/get_trial_event_frames.m,Analysis Suite\Secondary Analysis\GLM\General\make_x_y_common\get_trial_event_frames.m,81db8f7701d14cde5ad50563f4bd9266,2023-06-12 15:39,20f7edcdab2b5ea0648aadf94ded5ccc
 code/lib/chenlab/get_whisk.m,Analysis Suite\Secondary Analysis\multiarea\get_whisk.m,5f4e2a1ac83f467c2fd5939c2f5bb71e,2023-07-13 09:59,92adf793cd0bd8cda0636917ebd5ae8f
 code/lib/chenlab/nanzscore.m,Analysis Suite\PIPELINE\Misc\nanzscore.m,274aaf8e548c0da4ddc81594c9402dfb,2023-04-07 09:44,5a046516ba5810ca7b12893d8d86563c
-code/lib/chenlab/parseXML.m,Analysis Suite\Secondary Analysis\parseXML.m,e1229a084c53247532dd35456e69ea3e,2023-08-24 09:27,2724c1f93ec07c68fe29c10e2ae7562f
 code/lib/chenlab/setup_parpool_SCC.m,Analysis Suite\PIPELINE\SCC\setup_parpool_SCC.m,effe0e53dab42223662cabe49490b5a9,2024-02-05 10:23,f3607fe1c1be97a523cf1322ee6d9b77
 code/lib/chenlab/svm/balance_idx.m,Analysis Suite\Secondary Analysis\GENERAL_SVM\balance_idx.m,05ce1ee6c8816a189f2f308dc932c365,2024-01-04 21:10,15300d3449d71beee7b8cd507771e056
 code/lib/chenlab/svm/prepare_run.m,Analysis Suite\Secondary Analysis\GENERAL_SVM\prepare_run.m,0d7d461a5ddb75d9a6e12a2055c8d231,2026-03-12 09:38,4d4c3f29a9ce80970240d5b4bc828349
