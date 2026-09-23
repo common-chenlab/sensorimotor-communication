@@ -141,11 +141,12 @@ and cannot be run from the deposited data.
 
 ## Citing
 
-Please cite the article, and this code. `CITATION.cff` holds the citation metadata, and
-GitHub shows it as *Cite this repository*. Once this repository is archived on Zenodo, cite
-the code by the Zenodo concept DOI, which always resolves to the newest version, and the
-dataset by its GIN DOI (see *Data*) rather than by repository URL. Both DOIs are added here
-as soon as they are minted.
+Please cite the article, and this code by its Zenodo DOI
+[10.5281/zenodo.22920663](https://doi.org/10.5281/zenodo.22920663), which always resolves to
+the newest version. `CITATION.cff` holds the citation metadata, and GitHub shows it as
+*Cite this repository*.
+Cite the dataset by its GIN DOI (see *Data*) rather than by repository URL; that DOI is
+added here as soon as it is minted.
 
 ## License
 
