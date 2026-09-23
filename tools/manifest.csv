@@ -4,7 +4,6 @@ Projects\Sensorimotor\Analysis\lick_analysis\plot_choice.m,code/behavior_lick/pl
 Projects\Sensorimotor\Manuscript\NatComm\original_submission\Figures\Figure1-Opto\plot_choice_FIGURE.m,code/behavior_lick/plot_choice_FIGURE.m
 Projects\Sensorimotor\Analysis\lick_analysis\sample_choice.m,code/behavior_lick/sample_choice.m
 Projects\Sensorimotor\Analysis\lick_analysis\sort_lick_stim.m,code/behavior_lick/sort_lick_stim.m
-Projects\Sensorimotor\Analysis\whisker_analysis\confplot.m,code/behavior_whisker/confplot_whisker.m
 Projects\Sensorimotor\Analysis\whisker_analysis\get_hilbert_components_100.m,code/behavior_whisker/get_hilbert_components_100.m
 Projects\Sensorimotor\Analysis\whisker_analysis\sort_whisking_delay.m,code/behavior_whisker/sort_whisking_delay.m
 Projects\Sensorimotor\Analysis\whisker_analysis\sort_whisking_delay_probe.m,code/behavior_whisker/sort_whisking_delay_probe.m
@@ -51,19 +50,13 @@ Analysis Suite\Secondary Analysis\GENERAL_SVM\svcpredict_test.m,code/lib/chenlab
 Analysis Suite\Secondary Analysis\GENERAL_SVM\wsvmmodel_cross_shuffles.m,code/lib/chenlab/svm/wsvmmodel_cross_shuffles.m
 Analysis Suite\Secondary Analysis\GLM\Abed - glm\get_slow_var.m,code/lib/chenlab/whisking/get_slow_var.m
 Analysis Suite\Secondary Analysis\GLM\Abed - glm\phase_from_hilbert.m,code/lib/chenlab/whisking/phase_from_hilbert.m
-Projects\Sensorimotor\Analysis\mCherry\anova_rm.m,code/lib/third_party/anova_rm.m
-Analysis Suite\Data Visualization\bluewhitered.m,code/lib/third_party/bluewhitered.m
-Projects\Sensorimotor\Scripts\Mitch\bonf_holm.m,code/lib/third_party/bonf_holm.m
 Projects\Sensorimotor\Scripts\CCA\canonical-correlation-maps-main\util\BinTime.m,code/lib/third_party/canonical-correlation-maps/BinTime.m
 Projects\Sensorimotor\Scripts\CCA\canonical-correlation-maps-main\util\CanonCorr.m,code/lib/third_party/canonical-correlation-maps/CanonCorr.m
 Projects\Sensorimotor\Scripts\CCA\canonical-correlation-maps-main\util\CanonCorrFitAndPredict.m,code/lib/third_party/canonical-correlation-maps/CanonCorrFitAndPredict.m
 Projects\Sensorimotor\Scripts\CCA\canonical-correlation-maps-main\LICENSE,code/lib/third_party/canonical-correlation-maps/LICENSE
 Projects\Sensorimotor\Scripts\CCA\canonical-correlation-maps-main\README.md,code/lib/third_party/canonical-correlation-maps/README.md
 Projects\Sensorimotor\Scripts\CCA\canonical-correlation-maps-main\util\Squash.m,code/lib/third_party/canonical-correlation-maps/Squash.m
-Projects\Sensorimotor\Analysis\proj\confplot.m,code/lib/third_party/confplot.m
-Analysis Suite\Data Visualization\distinguishable_colors.m,code/lib/third_party/distinguishable_colors.m
 Analysis Suite\PIPELINE\2P\CaImAn-MATLAB-master\loadtiff.m,code/lib/third_party/loadtiff.m
-Analysis Suite\Data Visualization\violin.m,code/lib/third_party/violin.m
 Projects\Sensorimotor\Analysis\mCherry\ANALYZE_PROJ.m,code/mcherry/ANALYZE_PROJ.m
 Projects\Sensorimotor\Analysis\mCherry\BATCH_IFI_mCherry.m,code/mcherry/BATCH_IFI_mCherry.m
 Projects\Sensorimotor\Analysis\mCherry\project_correlation.m,code/mcherry/project_correlation.m
@@ -162,5 +155,3 @@ Analysis Suite\PIPELINE\BEHAVIOR\whisker_tracking\06_import_measurements\save_pa
 Analysis Suite\PIPELINE\BEHAVIOR\whisker_tracking\common scripts\build_measurements.m,code/whisker_tracking/import_measurements/build_measurements.m
 Analysis Suite\PIPELINE\BEHAVIOR\whisker_tracking\misc\whisker_tracking\clack_add_on\LoadMeasurements.m,code/lib/third_party/janelia_whisker/LoadMeasurements.m
 Analysis Suite\PIPELINE\BEHAVIOR\whisker_tracking\misc\whisker_tracking\clack_add_on\LoadWhiskers.m,code/lib/third_party/janelia_whisker/LoadWhiskers.m
-Analysis Suite\PIPELINE\BEHAVIOR\whisker_tracking\06_import_measurements\natsort.m,code/lib/third_party/natsort.m
-Analysis Suite\PIPELINE\Misc\parfor_progressbar\progressbar.m,code/lib/chenlab/progressbar.m

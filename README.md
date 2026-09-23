@@ -14,9 +14,15 @@ NCOMMS-26-057740).
   Image Processing, DSP System, Curve Fitting, Parallel Computing. Not every script needs
   every toolbox; the figure scripts mostly need Statistics and Machine Learning, plus
   Parallel Computing for `parfor` cells.
+- Eight MATLAB File Exchange functions that are not redistributed here: `anova_rm`,
+  `bonf_holm`, `confplot`, `distinguishable_colors`, `violin`, `bluewhitered`, `natsort` and
+  `progressbar` (parfor_progressbar). Download them from File Exchange and put them on the
+  path. `THIRD_PARTY.md` lists which scripts need which; `anova_rm` and `bonf_holm` affect
+  reported statistics, the rest only figures.
 - The data, published separately on G-Node GIN (see *Data* below)
 
-The same check finds no required files outside the repository.
+Apart from those File Exchange functions, the same check finds no required files outside
+the repository.
 
 ## Quick start
 

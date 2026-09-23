@@ -4,7 +4,6 @@ code/behavior_lick/plot_choice.m,Projects\Sensorimotor\Analysis\lick_analysis\pl
 code/behavior_lick/plot_choice_FIGURE.m,Projects\Sensorimotor\Manuscript\NatComm\original_submission\Figures\Figure1-Opto\plot_choice_FIGURE.m,1e346d2597fe8b4368799be5764750a9,2024-12-15 21:49,64cd6ff095f5da6ef6dcfc90be0af7a9
 code/behavior_lick/sample_choice.m,Projects\Sensorimotor\Analysis\lick_analysis\sample_choice.m,12b5a751b7206f5bb67215fe3c8abb4f,2024-06-18 05:35,d0420ea27a2a9e7de0dab066f7558a5d
 code/behavior_lick/sort_lick_stim.m,Projects\Sensorimotor\Analysis\lick_analysis\sort_lick_stim.m,23730998eefc97dc6550edded48743f2,2024-05-20 17:43,a243329de21e198e03c89aa502e3b47d
-code/behavior_whisker/confplot_whisker.m,Projects\Sensorimotor\Analysis\whisker_analysis\confplot.m,f27d0aac449ea642a0abfec153211f96,2022-11-29 14:41,0a53a2b0534af75c097e68ca583e0217
 code/behavior_whisker/get_hilbert_components_100.m,Projects\Sensorimotor\Analysis\whisker_analysis\get_hilbert_components_100.m,4ea65ffe67c6d48f2afc549ac5b49bc3,2022-11-29 16:21,aa70686109f799788f8d4dd8a6994223
 code/behavior_whisker/sort_whisking_delay.m,Projects\Sensorimotor\Analysis\whisker_analysis\sort_whisking_delay.m,7a2f04b87486e9dd05ebd4bc90d8bd7b,2026-06-22 13:13,9f94c60edf67ff656a7efcd6595b5274
 code/behavior_whisker/sort_whisking_delay_probe.m,Projects\Sensorimotor\Analysis\whisker_analysis\sort_whisking_delay_probe.m,39f4d5fa37c9547f2ce569f5157e8f8e,2026-06-23 04:00,4569ee7dc3020a72c6689097c22f9bee
@@ -45,7 +44,6 @@ code/lib/chenlab/get_trial_event_frames.m,Analysis Suite\Secondary Analysis\GLM\
 code/lib/chenlab/get_whisk.m,Analysis Suite\Secondary Analysis\multiarea\get_whisk.m,5f4e2a1ac83f467c2fd5939c2f5bb71e,2023-07-13 09:59,92adf793cd0bd8cda0636917ebd5ae8f
 code/lib/chenlab/nanzscore.m,Analysis Suite\PIPELINE\Misc\nanzscore.m,274aaf8e548c0da4ddc81594c9402dfb,2023-04-07 09:44,5a046516ba5810ca7b12893d8d86563c
 code/lib/chenlab/parseXML.m,Analysis Suite\Secondary Analysis\parseXML.m,e1229a084c53247532dd35456e69ea3e,2023-08-24 09:27,2724c1f93ec07c68fe29c10e2ae7562f
-code/lib/chenlab/progressbar.m,Analysis Suite\PIPELINE\Misc\parfor_progressbar\progressbar.m,57c81f277bf66bb3875922a2e7b9f221,2023-06-01 08:06,06705e480618e134da62478338e8251c
 code/lib/chenlab/setup_parpool_SCC.m,Analysis Suite\PIPELINE\SCC\setup_parpool_SCC.m,effe0e53dab42223662cabe49490b5a9,2024-02-05 10:23,f3607fe1c1be97a523cf1322ee6d9b77
 code/lib/chenlab/svm/balance_idx.m,Analysis Suite\Secondary Analysis\GENERAL_SVM\balance_idx.m,05ce1ee6c8816a189f2f308dc932c365,2024-01-04 21:10,15300d3449d71beee7b8cd507771e056
 code/lib/chenlab/svm/prepare_run.m,Analysis Suite\Secondary Analysis\GENERAL_SVM\prepare_run.m,0d7d461a5ddb75d9a6e12a2055c8d231,2026-03-12 09:38,4d4c3f29a9ce80970240d5b4bc828349
@@ -53,22 +51,15 @@ code/lib/chenlab/svm/svcpredict_test.m,Analysis Suite\Secondary Analysis\GENERAL
 code/lib/chenlab/svm/wsvmmodel_cross_shuffles.m,Analysis Suite\Secondary Analysis\GENERAL_SVM\wsvmmodel_cross_shuffles.m,d188a55003fbd8abd426115c2479b3c2,2024-06-17 10:44,272cfadae3b8faefbcf45f6c277f4b93
 code/lib/chenlab/whisking/get_slow_var.m,Analysis Suite\Secondary Analysis\GLM\Abed - glm\get_slow_var.m,f275c954b30b76cbfd149c609befb7e4,2019-06-18 15:38,f07de9027235b733f748d5bbbf23b5b5
 code/lib/chenlab/whisking/phase_from_hilbert.m,Analysis Suite\Secondary Analysis\GLM\Abed - glm\phase_from_hilbert.m,8f92f7ca8ddd9be4cf629146bf19f040,2019-06-18 15:38,daf66380947a8d3c780cd5fee82e739c
-code/lib/third_party/anova_rm.m,Projects\Sensorimotor\Analysis\mCherry\anova_rm.m,3ada183943fb2f2864ec8b50964e2b44,2025-01-02 00:12,cce5711353c68dc39f890554b8752e1c
-code/lib/third_party/bluewhitered.m,Analysis Suite\Data Visualization\bluewhitered.m,4d89c65ebcd7bdb1f16dd4060892a077,2014-02-12 12:06,fc7b90edcaedc13ec1c1991775438b7d
-code/lib/third_party/bonf_holm.m,Projects\Sensorimotor\Scripts\Mitch\bonf_holm.m,38b382a817d61e0f299647c1111acc1b,2024-03-28 15:07,38b382a817d61e0f299647c1111acc1b
 code/lib/third_party/canonical-correlation-maps/BinTime.m,Projects\Sensorimotor\Scripts\CCA\canonical-correlation-maps-main\util\BinTime.m,f718de14356e65428740d4e3334b7dee,2023-08-25 10:04,f718de14356e65428740d4e3334b7dee
 code/lib/third_party/canonical-correlation-maps/CanonCorr.m,Projects\Sensorimotor\Scripts\CCA\canonical-correlation-maps-main\util\CanonCorr.m,7fd6e23c2ba5d2ffa791d284fdecb254,2023-08-25 10:04,7fd6e23c2ba5d2ffa791d284fdecb254
 code/lib/third_party/canonical-correlation-maps/CanonCorrFitAndPredict.m,Projects\Sensorimotor\Scripts\CCA\canonical-correlation-maps-main\util\CanonCorrFitAndPredict.m,84b30c55d15baf0068e25efa532c8843,2023-09-29 14:51,84b30c55d15baf0068e25efa532c8843
 code/lib/third_party/canonical-correlation-maps/LICENSE,Projects\Sensorimotor\Scripts\CCA\canonical-correlation-maps-main\LICENSE,e4e6f3faec256e145b793a5d947db11d,2023-08-25 10:04,e4e6f3faec256e145b793a5d947db11d
 code/lib/third_party/canonical-correlation-maps/README.md,Projects\Sensorimotor\Scripts\CCA\canonical-correlation-maps-main\README.md,4155162e1bae4b88011a8d2037d5102a,2023-08-25 10:04,4155162e1bae4b88011a8d2037d5102a
 code/lib/third_party/canonical-correlation-maps/Squash.m,Projects\Sensorimotor\Scripts\CCA\canonical-correlation-maps-main\util\Squash.m,49de2e1da0d1c0eab4022a3c7f4a798c,2023-08-25 10:04,49de2e1da0d1c0eab4022a3c7f4a798c
-code/lib/third_party/confplot.m,Projects\Sensorimotor\Analysis\proj\confplot.m,648b68233d6599e96c2f2ce573c31710,2018-09-22 21:32,45942b1c3bae03cab45aa14f16f3db27
-code/lib/third_party/distinguishable_colors.m,Analysis Suite\Data Visualization\distinguishable_colors.m,57960cf5d13cead2f1e291d1288bccb2,2023-04-07 09:44,57960cf5d13cead2f1e291d1288bccb2
 code/lib/third_party/janelia_whisker/LoadMeasurements.m,Analysis Suite\PIPELINE\BEHAVIOR\whisker_tracking\misc\whisker_tracking\clack_add_on\LoadMeasurements.m,ba980d048cbd6b0da0cc01141ad4e64a,2012-04-06 10:17,ba980d048cbd6b0da0cc01141ad4e64a
 code/lib/third_party/janelia_whisker/LoadWhiskers.m,Analysis Suite\PIPELINE\BEHAVIOR\whisker_tracking\misc\whisker_tracking\clack_add_on\LoadWhiskers.m,8ee2d050dc0afdfb19eb1698085939f0,2012-04-06 10:17,8ee2d050dc0afdfb19eb1698085939f0
 code/lib/third_party/loadtiff.m,Analysis Suite\PIPELINE\2P\CaImAn-MATLAB-master\loadtiff.m,398bea9ccf6c22936b08d25c83cb6cd8,2023-07-18 13:59,118eea8497b293185c6f10feec2e4ff2
-code/lib/third_party/natsort.m,Analysis Suite\PIPELINE\BEHAVIOR\whisker_tracking\06_import_measurements\natsort.m,24060a3655abdf7da65d17fd50d0b3ac,2019-03-24 22:33,da71502ea5841967b1bb8bec3b499e14
-code/lib/third_party/violin.m,Analysis Suite\Data Visualization\violin.m,6137d6124c3454b25624b6ec1cce79f3,2015-11-03 16:47,f334c1ba32a38f6066c6ceca64bbf75a
 code/mcherry/ANALYZE_PROJ.m,Projects\Sensorimotor\Analysis\mCherry\ANALYZE_PROJ.m,29562d6c1a63b6ac32e590889f024f20,2026-03-21 09:46,8b1c8d4501704b749c168a3b0abb5d07
 code/mcherry/BATCH_IFI_mCherry.m,Projects\Sensorimotor\Analysis\mCherry\BATCH_IFI_mCherry.m,c8f41bc20e2dfd9040f7c79651304387,2026-02-26 21:38,4de15affc707086ef773708bf9401d36
 code/mcherry/project_correlation.m,Projects\Sensorimotor\Analysis\mCherry\project_correlation.m,7bc04f8214ead94e3314716486925fc6,2026-03-21 09:22,4552bffb68b5f3fe9835cc1f22395d2b
