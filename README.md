@@ -148,6 +148,18 @@ the newest version. `CITATION.cff` holds the citation metadata, and GitHub shows
 Cite the dataset by its GIN DOI (see *Data*) rather than by repository URL; that DOI is
 added here as soon as it is minted.
 
+## Authors
+
+Andrew S. Blaeser ([@ablaeser](https://github.com/ablaeser),
+[ORCID 0000-0002-3897-6143](https://orcid.org/0000-0002-3897-6143)) wrote the analysis code,
+prepared this repository and maintains it. The code also includes shared Chen lab pipeline
+code, to which other lab members contributed; `CITATION.cff` lists the article's authors and
+`THIRD_PARTY.md` the code written outside the lab. The work was carried out in the Chen lab
+at Boston University.
+
+Questions about the code are best raised as issues here. For the dataset, contact Jerry L.
+Chen (jerry@chen-lab.org).
+
 ## License
 
 MIT (`LICENSE`), with two exceptions: `code/lib/third_party/` (own licenses,
